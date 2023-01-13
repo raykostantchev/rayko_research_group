@@ -1,6 +1,6 @@
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
+[![Screenshot](./bear_index.jpg)](https://rayko-research.netlify.app/)
 
 The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
 
@@ -12,7 +12,7 @@ The **Research Group Template** empowers your research group to easily create a 
 
 Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://wowchemy.com/creators/).
+[Check out the latest demo](https://rayko-research.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://wowchemy.com/creators/).
 
 The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
 
