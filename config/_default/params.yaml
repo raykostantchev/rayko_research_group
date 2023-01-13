@@ -53,7 +53,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Jan 2, 2023'
   time_format: '3:04 PM'
   address_format: en-us
 
@@ -66,7 +66,7 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
@@ -113,4 +113,5 @@ extensions:
 
 publications:
   date_format: January 2006
-  citation_style: apa
+  citation_style: mla
+  highlight_superuser: true
