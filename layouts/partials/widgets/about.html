@@ -1,0 +1,180 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+{{ $author := "" }}
+{{ if .author }}
+  {{ $author = .author }}
+{{ else }}
+  {{ $author = $page.Params.author }}
+{{end}}
+
+{{ $person_page_path := (printf "/authors/%s" (urlize $author)) }}
+{{ $person_page := site.GetPage $person_page_path }}
+{{ if not $person_page }}
+  {{ errorf "Could not find an author page at `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://sourcethemes.com/academic/docs/page-builder/#about " $person_page_path }}
+{{end}}
+{{ $person := $person_page.Params }}
+{{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+{{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
+
+
+<!-- About widget -->
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      {{ if site.Params.avatar.gravatar }}
+      <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=270')" alt="{{$person_page.Title}}">
+      {{ else if $avatar }}
+      {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+      <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}">
+      {{ end }}
+
+      <div class="portrait-title">
+        <h2>{{ $person_page.Title }}</h2>
+        {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+
+        {{ range $person.organizations }}
+        <h3>
+          {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+          <span>{{ .name }}</span>
+          {{ if .url }}</a>{{ end }}
+        </h3>
+        {{ end }}
+      </div>
+
+      <ul class="network-icon" aria-hidden="true">
+        {{ range $person.social }}
+        {{ $pack := or .icon_pack "fas" }}
+        {{ $pack_prefix := $pack }}
+        {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+          {{ $pack_prefix = "fa" }}
+        {{ end }}
+        {{ $link := .link }}
+        {{ $scheme := (urls.Parse $link).Scheme }}
+        {{ $target := "" }}
+        {{ if not $scheme }}
+          {{ $link = .link | relLangURL }}
+        {{ else if in (slice "http" "https") $scheme }}
+          {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+        {{ end }}
+        <li>
+          <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
+    {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
+   
+    
+	 <style> div2 {text-align:justify;
+	text-justify:values;}	</style> 
+	<div2>	{{ $person_page.Content }} </div2>
+  
+  
+  
+    <div class="row">
+
+      {{ with $person.interests }}
+      <div class="col-md-5">
+        <h3>{{ i18n "interests" | markdownify }}</h3>
+        <ul class="ul-interests">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+      {{ with $person.education }}
+      <div class="col-md-7">
+        <h3>{{ i18n "education" | markdownify }}</h3>
+        <ul class="ul-edu fa-ul">
+          {{ range .courses }}
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <p class="institution">{{ .institution }}</p>
+              <p class="course">{{- with .thesis_url}}Thesis: <a href="{{.}}" target="_blank" rel="noopener">{{end}}{{ .thesis_url | markdownify | emojify}}{{with .thesis_url}}</a>{{end -}}</p>
+            </div>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+    </div>
+
+
+
+	<!-- Experience widget -->
+	{{ with $person.experience }}
+	<div class="row"> 
+	  <div class="col-12 col-lg-12">
+		<h3>Work Experience</h3>
+		{{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+	  <!-- </div>
+	  <div class="col-12 col-lg-8"> -->
+	   
+		{{ if $page.Params.experience }}
+		{{ $exp_len := len $page.Params.experience }}
+		{{ range $idx, $key := sort $page.Params.experience ".date_start" "desc" }}
+		<div class="row experience">
+		  <!-- Timeline -->
+		  <div class="col-auto text-center flex-column d-none d-sm-flex">
+			<div class="row h-50">
+			  <div class="col {{if gt $idx 0}}border-right{{end}}">&nbsp;</div>
+			  <div class="col">&nbsp;</div>
+			</div>
+			<div class="m-2">
+			  <span class="badge badge-pill border {{if not .date_end}}exp-fill{{end}}">&nbsp;</span>
+			</div>
+			<div class="row h-50">
+			  <div class="col {{if lt $idx (sub $exp_len 1)}}border-right{{end}}">&nbsp;</div>
+			  <div class="col">&nbsp;</div>
+			</div>
+		  </div>
+		  <!-- Content -->
+		  <div class="col py-2">
+			<div class="card">
+			  <div class="card-body">
+				<h4 class="card-title exp-title text-muted mt-0 mb-1">{{.title | markdownify | emojify}}</h4>
+				<h4 class="card-title exp-company text-muted my-0">
+				  {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
+				</h4>
+				<div class="text-muted exp-meta">
+				  {{ (time .date_start).Format ($page.Params.date_format | default "January 2006") }} –
+				  {{ if .date_end}}
+					{{ (time .date_end).Format ($page.Params.date_format | default "January 2006") }}
+				  {{else}}
+					{{ i18n "present" | default "Present" }}
+				  {{end}}
+				  {{with .location}}
+					<span class="middot-divider"></span>
+					<span>{{.}}</span>
+				  {{end}}
+				</div>
+				{{with .description}}<div class="card-text">{{. | markdownify | emojify}}</div>{{end}}
+			  </div>
+			</div>
+		  </div>
+		</div>
+		{{end}}
+		{{end}}
+		
+	  </div>
+	  
+	</div> 
+
+	{{ end }}
+  </div>
+
+</div>
