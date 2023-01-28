@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jiarui Wang
-- Rayko I. Stantchev
+- rayko
 - Qiushuo Sun
 - Emma Pickwell-MacPherson
 tags:
