@@ -22,7 +22,7 @@ design:
     image_size: page
     text_color_light: true
   spacing:
-    padding: ['10px', '0px', '300px', '0']
+    padding: ['400px', '0px', '300px', '0']
 advanced:
-  css_class: template
+  css_class: reveal
 ---
