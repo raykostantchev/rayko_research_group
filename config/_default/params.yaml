@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  theme_day: ocean_rayko
+  theme_night: ocean_rayko
   font: native
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'A Rayko research group theme powered by Wowchemy website builder.'
+    twitter: 'rayko'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -37,7 +37,7 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
@@ -53,18 +53,19 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2023'
-  time_format: '3:04 PM'
+  date_format: 'Mon 02-Jan-2006'
+  time_format: '15:04'
   address_format: en-us
 
 # Site features
 
 features:
   syntax_highlighter:
-    enable: false
+    enable: true
     extra_languages:
       - r
       - latex
+      - matlab
   math:
     enable: true
   privacy_pack:
@@ -75,7 +76,7 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: circle
+    shape: square
   comment:
     provider: ''
     disqus:
@@ -89,7 +90,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: rayko
     algolia:
       app_id: ''
       api_key: ''
@@ -105,7 +106,7 @@ features:
 extensions:
   cms:
     branch: main
-    local_backend: false
+    local_backend: true
   academicons:
     enable: true
 
