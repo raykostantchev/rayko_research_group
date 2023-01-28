@@ -9,20 +9,20 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title:
+title: 
 subtitle:
 
 design:
   columns: '1'
   background:
-    image: contact.jpg
+    image: DSC03682.JPG
     image_darken: 0
-    image_parallax: false
+    image_parallax: true
     image_position: center
-    image_size: cover
+    image_size: page
     text_color_light: true
   spacing:
-    padding: ['20px', '0', '20px', '0']
+    padding: ['10px', '0px', '300px', '0']
 advanced:
-  css_class: fullscreen
+  css_class: template
 ---
