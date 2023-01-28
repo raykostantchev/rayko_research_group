@@ -10,13 +10,13 @@ headless: true
 weight: 10
 
 title: Contact
-subtitle: test
+subtitle: 
 
 content:
   # Contact (edit or remove options as required)
 
   email: rayko.stantchev@g-mail.nsysu.edu.tw
-  phone: 888 888 88 88
+  phone: +886-7-5253700
   address:
 #	office: PH3004
     street: Department of Physics, No. 70, Lienhai Rd
@@ -40,7 +40,7 @@ content:
   #    link: 'https://discourse.gohugo.io'
 
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
 
   # Email form provider
   form:
@@ -49,10 +49,10 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
 Rayko research group contant details
