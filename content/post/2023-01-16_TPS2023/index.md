@@ -1,6 +1,6 @@
 ---
 title: Rayko presented at the Taiwan Physical Physical Society conference 2023 in Tainan.
-date: 2023-01-16
+date: 16-01-2023
 image:
   focal_point: 'top'
 ---
