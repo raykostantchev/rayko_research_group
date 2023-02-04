@@ -12,11 +12,11 @@ authors:
 - Rayko I. Stantchev
 - Emma Pickwell-MacPherson
 tags:
-- graphene; metamaterials; modulators; polarization; terahertz devices; terahertz
+- Graphene; metamaterials; modulators; polarization; terahertz devices; terahertz
   imaging; total internal reflection
 categories: []
 date: '2020-02-01'
-lastmod: 2023-01-28T12:28:56+08:00
+lastmod: 2023-02-04T10:24:32+08:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-28T04:28:56.912584Z'
+publishDate: '2023-02-04T02:24:32.003531Z'
 publication_types:
 - '2'
 abstract: To promote potential applications of terahertz (THz) technology, more advanced

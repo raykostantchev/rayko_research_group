@@ -9,11 +9,11 @@ authors:
 - Kaidi Li
 - Emma Pickwell-MacPherson
 tags:
-- Image quality; Modulators; Neural networks; Terahertz imaging; Total internal reflection;
-  Video
+- Image quality; modulators; neural networks; terahertz imaging; total internal reflection;
+  video
 categories: []
 date: '2021-01-01'
-lastmod: 2023-01-28T12:28:57+08:00
+lastmod: 2023-02-04T10:24:32+08:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-28T04:28:57.843952Z'
+publishDate: '2023-02-04T02:24:32.865873Z'
 publication_types:
 - '1'
 abstract: THz imaging is getting faster We are getting very close to video rate THz

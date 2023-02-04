@@ -18,7 +18,7 @@ authors:
 tags: []
 categories: []
 date: '2018-11-01'
-lastmod: 2023-01-28T12:28:55+08:00
+lastmod: 2023-02-04T10:24:30+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-28T04:28:55.079915Z'
+publishDate: '2023-02-04T02:24:30.370892Z'
 publication_types:
 - '2'
 abstract: Terahertz modulators with high tunability of both intensity and phase are

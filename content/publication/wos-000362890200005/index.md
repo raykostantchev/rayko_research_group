@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2015-10-01'
-lastmod: 2023-01-28T12:28:52+08:00
+lastmod: 2023-02-04T10:24:27+08:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-28T04:28:52.343936Z'
+publishDate: '2023-02-04T02:24:27.865501Z'
 publication_types:
 - '2'
 abstract: We present measurements and analytical modeling which demonstrate enhanced

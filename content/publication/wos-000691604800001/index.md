@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2021-06-01'
-lastmod: 2023-01-28T12:28:58+08:00
+lastmod: 2023-02-04T10:24:33+08:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-28T04:28:58.526906Z'
+publishDate: '2023-02-04T02:24:33.475981Z'
 publication_types:
 - '2'
 abstract: 'It was first suggested that terahertz imaging has the potential to detect
