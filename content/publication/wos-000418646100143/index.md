@@ -14,11 +14,11 @@ authors:
 - Yuan Zhou
 - Wei Huang
 tags:
-- Plasma frequency; Characteristic surface plasmon frequency; Surface plasmon polaritons;
-  Semiconductor; Terahertz
+- Plasma frequency; characteristic surface plasmon frequency; surface plasmon polaritons;
+  semiconductor; terahertz
 categories: []
 date: '2018-03-01'
-lastmod: 2023-01-28T12:28:53+08:00
+lastmod: 2023-02-04T10:24:29+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-28T04:28:53.738049Z'
+publishDate: '2023-02-04T02:24:29.081063Z'
 publication_types:
 - '2'
 abstract: Measurement of the plasma frequency of a semiconductor film using broadband

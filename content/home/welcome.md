@@ -23,4 +23,4 @@ design:
 
 <br>
 
-The **Rayko Research Group** has been a center of excellence for Terahertz research, teaching, and practice since its founding in 2022.
+The **Rayko Research Group** was founded in Sep/2022 and it will conduct Terahertz research and teaching physics.

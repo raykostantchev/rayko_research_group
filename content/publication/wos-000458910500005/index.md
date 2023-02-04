@@ -15,10 +15,10 @@ authors:
 - Anil T. Ahuja
 - Emma Pickwell-MacPherson
 tags:
-- in vivo imaging; skin occlusion; terahertz reflection spectroscopy; water diffusivity
+- In vivo imaging; skin occlusion; terahertz reflection spectroscopy; water diffusivity
 categories: []
 date: '2019-02-01'
-lastmod: 2023-01-28T12:28:55+08:00
+lastmod: 2023-02-04T10:24:31+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-28T04:28:55.810263Z'
+publishDate: '2023-02-04T02:24:30.988395Z'
 publication_types:
 - '2'
 abstract: 'Water diffusion and the concentration profile within the skin significantly

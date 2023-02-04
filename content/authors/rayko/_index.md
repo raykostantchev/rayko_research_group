@@ -3,7 +3,7 @@
 title: Rayko Ivanov Stantchev 
 
 # Username (this should match the folder name)
-authors: Rayko Ivanov Stantchev
+authors: rayko
 #  - Rayko I. Stantchev
 #  - Rayko I Stantchev
 
@@ -30,6 +30,7 @@ interests:
   - Compressed sensing
   - Femtosecond physical phenomena
 
+
 education:
   courses:
     - course: PhD in Experimental physics
@@ -40,6 +41,7 @@ education:
     - course: BSc in Maths & Physics combined honours
       institution: University of Exeter
       year: 2014
+
 
 experience:
         - title: Assistant Professor
@@ -104,12 +106,32 @@ highlight_name: true
 user_groups:
   - Principal Investigator
   
+# Show the publications or not...
+show_publications: false 
+
+content:
+  count: 60
+  filters:
+    author: 'rayko'
+    category: ''
+    exclude_featured: false
+    publication_type: 'pub_journal'
+    tag: ''
+  offset: 0
+  order: desc
+  page_type: named_pubs
+design:
+  view: 4
+  columns: '2'
+  
+
 ---
 
+  
 Rayko Stantchev was born in Bulgaria. He then moved to the United Kingdom at a young age where he went to school and later to the university of Exeter where he obtained a Bachelor's degree in Maths and Physics combined honours in 2013.
 
 Immediately after, without a Master's degree, in Exeter he started a PhD in experimental physics working with a THz spectrometer and spatial light modulators. His PhD focused on the experimental implementation of non-invasive THz imaging using single-element detectors, with the addition of adaptive undersampling techniques.
 
 Upon completion of his thesis, in 2017, he moved to Hong Kong for a postdoc with the THz group of E. Pickwell-MacPherson in the Chinese university of Hong Kong. In 2021, the THz group in Hong Kong completely moved to the UK at the University of Warwick and Rayko was based here until Aug/2022. Then he moved to Taiwan to be an assistant professor at the National Sun Yat-sen University where he is currently at, whilst holding an honorary research fellow position at the University of Warwick.
 
-{{< cite page="/publication/real-time-t-hz" view=1 >}}
+
