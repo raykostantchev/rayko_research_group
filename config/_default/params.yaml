@@ -10,6 +10,7 @@ appearance:
   theme_night: ocean_rayko
   font: native
   font_size: M
+  text_align: justify
 
 # SEO
 

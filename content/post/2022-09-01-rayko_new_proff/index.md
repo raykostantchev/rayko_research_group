@@ -1,7 +1,7 @@
 ---
 title: Rayko arrived at NSYSU and to become an assistant professor at the Department of Physics.
 date: '2022-09-01'
-lastmod: '2022-09-01T10:24:33+08:00'
+#lastmod: '2022-09-01T10:24:33+08:00'
 
 image:
   focal_point: 'top'
