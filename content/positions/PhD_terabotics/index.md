@@ -40,7 +40,7 @@ You will be working with ultra-fast (100 femtosecond) optical equipment. This wi
 
 ```mermaid
 flowchart TD
-    A[Ultrafast optics] --> B(Time-resolved \n Femtosecond spectroscopy) 
+    A[Ultrafast optics] --> B(Photoluminescence spectroscopy) 
     A --> C(Time-resolved \n Terahertz spectroscopy)
     B-->  D[Semiconductor material \n and device characterization]
     C --> D
@@ -56,7 +56,7 @@ flowchart TD
 
 
 There is a potential overseas exchange to the University of Warwick. The duration of PhD student's trip to the UK will be from 3 months up to 1 year abroad.
-<img src="https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/emmasthzgroup/terabotics/people/emma_macpherson_2.jpg?" style="float: right; max-width: 20%; padding: 00px 00px 00px 10px">
+<img src="https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/emmasthzgroup/terabotics/people/emma_macpherson_2.jpg?" style="float: right; max-width: 23%; padding: 00px 00px 00px 10px">
 
 
 

@@ -40,7 +40,7 @@ You will be working with ultra-fast (100 femtosecond) optical equipment. This wi
 
 ```mermaid
 flowchart TD
-    A[Ultrafast optics] --> B(Time-resolved \n Femtosecond spectroscopy) 
+    A[Ultrafast optics] --> B(Photoluminescence spectroscopy) 
     A --> C(Time-resolved \n Terahertz spectroscopy)
     B-->  D[Semiconductor material \n and device characterization]
     C --> D
