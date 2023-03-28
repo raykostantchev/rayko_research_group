@@ -19,7 +19,7 @@ authors:
 tags: []
 categories: []
 date: '2018-08-01'
-lastmod: 2023-02-04T10:24:29+08:00
+lastmod: 2023-03-28T16:08:37+08:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-04T02:24:29.488495Z'
+publishDate: '2023-03-28T08:08:37.126825Z'
 publication_types:
 - '2'
 abstract: Terahertz (THz) thin-film total internal reflection (TF-TIR) spectroscopy
@@ -53,6 +53,6 @@ abstract: Terahertz (THz) thin-film total internal reflection (TF-TIR) spectrosc
   of environmentally induced changes to the vibrational modes afforded by TF-TIR spectroscopy
   offers applications in the characterization and quality control of the perovskite
   thin-film solar cells and other thin-film semiconductors.
-publication: '*JOURNAL OF PHYSICAL CHEMISTRY C*'
+publication: '*Journal Of Physical Chemistry C*'
 doi: 10.1021/acs.jpcc.8b05695
 ---

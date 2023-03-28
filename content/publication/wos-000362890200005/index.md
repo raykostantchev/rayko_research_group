@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2015-10-01'
-lastmod: 2023-02-04T10:24:27+08:00
+lastmod: 2023-03-28T16:08:35+08:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-04T02:24:27.865501Z'
+publishDate: '2023-03-28T08:08:35.746416Z'
 publication_types:
 - '2'
 abstract: We present measurements and analytical modeling which demonstrate enhanced
@@ -44,6 +44,6 @@ abstract: We present measurements and analytical modeling which demonstrate enha
   near-field interference can bring about enhanced transmission through the slit.
   By raster scanning the excitation pattern under these resonant conditions, one can
   build an image of subwavelength features such as the slit aperture of our sample.
-publication: '*PHYSICAL REVIEW A*'
+publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.92.043820
 ---

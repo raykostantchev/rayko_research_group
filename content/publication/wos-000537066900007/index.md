@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2020-05-01'
-lastmod: 2023-02-04T10:24:32+08:00
+lastmod: 2023-03-28T16:08:39+08:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-04T02:24:32.431991Z'
+publishDate: '2023-03-28T08:08:39.502322Z'
 publication_types:
 - '2'
 abstract: Terahertz (THz) radiation is poised to have an essential role in many imaging
@@ -50,6 +50,6 @@ abstract: Terahertz (THz) radiation is poised to have an essential role in many 
   is promising in many applications, but still relies on complex equipment. Here,
   the authors develop a simplified solution that enables terahertz real-time imaging
   using a single-pixel detector and rapid reconstruction methods.
-publication: '*NATURE COMMUNICATIONS*'
+publication: '*Nature Communications*'
 doi: 10.1038/s41467-020-16370-x
 ---

@@ -115,11 +115,11 @@ content:
     author: 'rayko'
     category: ''
     exclude_featured: false
-    publication_type: 'pub_journal'
+    publication_type: "2"
     tag: ''
   offset: 0
   order: desc
-  page_type: named_pubs
+  page_type: publication
 design:
   view: 4
   columns: '2'

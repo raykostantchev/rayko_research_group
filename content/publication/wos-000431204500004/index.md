@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2018-05-01'
-lastmod: 2023-02-04T10:24:29+08:00
+lastmod: 2023-03-28T16:08:37+08:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-04T02:24:29.291342Z'
+publishDate: '2023-03-28T08:08:36.951825Z'
 publication_types:
 - '2'
 abstract: Terahertz-spectroscopy probes dynamics and spectral response of collective
@@ -52,6 +52,6 @@ abstract: Terahertz-spectroscopy probes dynamics and spectral response of collec
   of the tissue. Our approach enables direct interrogation of the sample's biophysical
   properties, in this case concerning the structure and permittivity of collagen fibrils
   and their anisotropic organisation in connective tissue.
-publication: '*SCIENTIFIC REPORTS*'
+publication: '*Scientific Reports*'
 doi: 10.1038/s41598-018-25057-9
 ---

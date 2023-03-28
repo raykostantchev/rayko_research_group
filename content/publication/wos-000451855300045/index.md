@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2018-12-01'
-lastmod: 2023-02-04T10:24:30+08:00
+lastmod: 2023-03-28T16:08:38+08:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-04T02:24:30.781181Z'
+publishDate: '2023-03-28T08:08:38.137857Z'
 publication_types:
 - '2'
 abstract: Terahertz (THz) light is non-ionizing and highly sensitive to subtle changes
@@ -47,6 +47,6 @@ abstract: Terahertz (THz) light is non-ionizing and highly sensitive to subtle c
   will facilitate research in various potential biomedical applications under investigation.
   (C) 2018 Optical Society of America under the terms of the OSA Open Access Publishing
   Agreement
-publication: '*BIOMEDICAL OPTICS EXPRESS*'
+publication: '*Biomedical Optics Express*'
 doi: 10.1364/BOE.9.006467
 ---

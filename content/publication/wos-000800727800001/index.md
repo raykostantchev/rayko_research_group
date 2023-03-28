@@ -11,11 +11,11 @@ authors:
 - Arturo I. Hernandez Serrano
 - Emma Pickwell-MacPherson
 tags:
-- Finite rate of innovation; terahertz time-domain spectroscopy; low sampling rate;
+- finite rate of innovation; terahertz time-domain spectroscopy; low sampling rate;
   sum-of-sincs; annihilating filters
 categories: []
 date: '2022-05-01'
-lastmod: 2023-02-04T10:24:35+08:00
+lastmod: 2023-03-28T16:08:41+08:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-04T02:24:34.927865Z'
+publishDate: '2023-03-28T08:08:41.496742Z'
 publication_types:
 - '2'
 abstract: Recently, finite rate of innovation methods have been successfully applied
@@ -48,6 +48,6 @@ abstract: Recently, finite rate of innovation methods have been successfully app
   These results were obtained at relatively low sampling rates, compared to standard
   methods, which is a key advantage to using a finite rate of innovation method as
   it allows for faster data acquisition and signal processing.
-publication: '*SENSORS*'
+publication: '*Sensors*'
 doi: 10.3390/s22093387
 ---

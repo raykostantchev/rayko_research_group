@@ -16,7 +16,7 @@ tags:
 - ''
 categories: []
 date: '2022-08-01'
-lastmod: 2023-02-04T10:24:34+08:00
+lastmod: 2023-03-28T16:08:40+08:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-04T02:24:34.092618Z'
+publishDate: '2023-03-28T08:08:40.867813Z'
 publication_types:
 - '1'
 abstract: In this work, we use THz spectroscopic measurements in a reflection set-up

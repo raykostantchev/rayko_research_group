@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2016-05-01'
-lastmod: 2023-02-04T10:24:28+08:00
+lastmod: 2023-03-28T16:08:35+08:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-04T02:24:28.061114Z'
+publishDate: '2023-03-28T08:08:35.930753Z'
 publication_types:
 - '2'
 abstract: We propose a new method for detecting small defects on the surface of a
@@ -50,6 +50,6 @@ abstract: We propose a new method for detecting small defects on the surface of 
   the semiconductor. In comparison with traditional methods, our approach offers the
   merits of detecting both on-surface and subsurface defects, which is critical in
   monitoring the quality of semiconductor wafers. (C) 2016 Optical Society of America
-publication: '*APPLIED OPTICS*'
+publication: '*Applied Optics*'
 doi: 10.1364/AO.55.004139
 ---

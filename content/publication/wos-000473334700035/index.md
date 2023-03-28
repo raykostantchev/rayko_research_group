@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2019-07-01'
-lastmod: 2023-02-04T10:24:31+08:00
+lastmod: 2023-03-28T16:08:38+08:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-04T02:24:31.199495Z'
+publishDate: '2023-03-28T08:08:38.480603Z'
 publication_types:
 - '2'
 abstract: Silicone gel sheeting (SGS) is widely used for scar treatment; however,
@@ -47,6 +47,6 @@ abstract: Silicone gel sheeting (SGS) is widely used for scar treatment; however
   on the surface of human skin caused by SGS, and it has the potential to be used
   to evaluate different scar treatment strategies. (C) 2019 Optical Society of America
   under the terms of the OSA Open Access Publishing Agreement
-publication: '*BIOMEDICAL OPTICS EXPRESS*'
+publication: '*Biomedical Optics Express*'
 doi: 10.1364/BOE.10.003584
 ---

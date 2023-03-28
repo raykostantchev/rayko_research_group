@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2020-06-01'
-lastmod: 2023-02-04T10:24:32+08:00
+lastmod: 2023-03-28T16:08:39+08:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-04T02:24:32.636956Z'
+publishDate: '2023-03-28T08:08:39.670010Z'
 publication_types:
 - '2'
 abstract: Single pixel imaging (SPI) captures images without array detectors or raster
@@ -51,6 +51,6 @@ abstract: Single pixel imaging (SPI) captures images without array detectors or 
   this approach results in a significant improvement both in the compression ratio
   and image reconstruction quality, enabling SPI for high frame rate imaging or video
   applications.
-publication: '*SCIENTIFIC REPORTS*'
+publication: '*Scientific Reports*'
 doi: 10.1038/s41598-020-66371-5
 ---
