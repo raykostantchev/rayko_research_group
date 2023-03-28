@@ -14,10 +14,10 @@ authors:
 - Yiqiang Qin
 - Wei Huang
 tags:
-- Terahertz wave; surface plasmon polaritons; intrinsic semiconductor; drude model
+- terahertz wave; surface plasmon polaritons; intrinsic semiconductor; Drude model
 categories: []
 date: '2016-06-01'
-lastmod: 2023-02-04T10:24:28+08:00
+lastmod: 2023-03-28T16:08:36+08:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-04T02:24:28.462656Z'
+publishDate: '2023-03-28T08:08:36.269273Z'
 publication_types:
 - '2'
 abstract: Optical modulation of terahertz surface plasmon polaritons (THz SPPs) propagating
@@ -49,6 +49,6 @@ abstract: Optical modulation of terahertz surface plasmon polaritons (THz SPPs) 
   maximum modulation frequency of the modulators is anticipated to be above gigahertz,
   thus leading to the possibility of communication applications using the THz baseband.
   (C) 2016 Society of Photo-Optical Instrumentation Engineers (SPIE)
-publication: '*OPTICAL ENGINEERING*'
+publication: '*Optical Engineering*'
 doi: 10.1117/1.OE.55.6.064109
 ---

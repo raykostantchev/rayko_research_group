@@ -21,7 +21,7 @@ authors:
 tags: []
 categories: []
 date: '2018-12-01'
-lastmod: 2023-02-04T10:24:30+08:00
+lastmod: 2023-03-28T16:08:38+08:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-04T02:24:30.573048Z'
+publishDate: '2023-03-28T08:08:37.971782Z'
 publication_types:
 - '2'
 abstract: We employed a metallic wire grating loaded with graphene and operating in
@@ -52,6 +52,6 @@ abstract: We employed a metallic wire grating loaded with graphene and operating
   the metallic wire grating, the required sheet conductivity of graphene for deep
   modulation was lowered to 0.87 mS. This work has potential applications in THz communication
   and real-time THz imaging. (C) 2018 Chinese Laser Press
-publication: '*PHOTONICS RESEARCH*'
+publication: '*Photonics Research*'
 doi: 10.1364/PRJ.6.001151
 ---

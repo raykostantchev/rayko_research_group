@@ -10,11 +10,11 @@ authors:
 - Kaidi Li
 - Emma Pickwell-MacPherson
 tags:
-- Terahertz imaging; single-pixel detectors; spatial light modulation; time-domain
+- terahertz imaging; single-pixel detectors; spatial light modulation; time-domain
   spectroscopy; neural networks
 categories: []
 date: '2021-11-01'
-lastmod: 2023-02-04T10:24:33+08:00
+lastmod: 2023-03-28T16:08:40+08:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-04T02:24:33.684981Z'
+publishDate: '2023-03-28T08:08:40.531882Z'
 publication_types:
 - '2'
 abstract: We report the first use of a convolutional neural network for terahertz
@@ -43,6 +43,6 @@ abstract: We report the first use of a convolutional neural network for terahert
   detector, and an optical delay unit (ODU) is used to obtain the terahertz time-of-flight
   information. A key breakthrough in this work is to synchronize the equipment to
   not need any time to instruct the ODU to move while projecting the patterns.
-publication: '*ACS PHOTONICS*'
+publication: '*ACS Photonics*'
 doi: 10.1021/acsphotonics.1c00634
 ---

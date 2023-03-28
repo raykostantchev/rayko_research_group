@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2017-08-01'
-lastmod: 2023-02-04T10:24:28+08:00
+lastmod: 2023-03-28T16:08:36+08:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-04T02:24:28.880699Z'
+publishDate: '2023-03-28T08:08:36.608030Z'
 publication_types:
 - '2'
 abstract: We demonstrate a form of near-field terahertz (THz) imaging that is compatible
@@ -45,6 +45,6 @@ abstract: We demonstrate a form of near-field terahertz (THz) imaging that is co
   of similar to 9 mu m (lambda/45 at 0.75 THz). We conclude by experimentally improving
   the image rate by a factor of similar to 3 by undersampling the object with adaptive
   and compressed sensing algorithms.
-publication: '*OPTICA*'
+publication: '*Optica*'
 doi: 10.1364/OPTICA.4.000989
 ---

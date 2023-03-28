@@ -13,7 +13,7 @@ tags:
 - ''
 categories: []
 date: '2018-09-01'
-lastmod: 2023-02-04T10:24:30+08:00
+lastmod: 2023-03-28T16:08:37+08:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-04T02:24:30.110225Z'
+publishDate: '2023-03-28T08:08:37.634794Z'
 publication_types:
 - '1'
 abstract: Spectroscopic THz imaging of human skin can reveal hydration levels and

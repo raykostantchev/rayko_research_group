@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2020-05-01'
-lastmod: 2023-02-04T10:24:32+08:00
+lastmod: 2023-03-28T16:08:39+08:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-04T02:24:32.220693Z'
+publishDate: '2023-03-28T08:08:39.326623Z'
 publication_types:
 - '2'
 abstract: As an essential processing step in many disciplines, signal denoising efficiently
@@ -45,6 +45,6 @@ abstract: As an essential processing step in many disciplines, signal denoising 
   was also improved, and the image contrast was significantly enhanced. The signal-to-noise
   ratio of the leaf image was increased up to 10 dB, with the 6 dB bandwidth being
   extended by over 0.5 THz.
-publication: '*APL PHOTONICS*'
+publication: '*APL Photonics*'
 doi: 10.1063/5.0002968
 ---
