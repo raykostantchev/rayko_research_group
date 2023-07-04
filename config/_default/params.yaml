@@ -67,6 +67,7 @@ features:
       - r
       - latex
       - matlab
+      - julia
   math:
     enable: true
   privacy_pack:

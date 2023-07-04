@@ -1,0 +1,9 @@
+{{/* Function to update the equation counter. */}}
+
+{{ $page := .Page }}
+{{ $eqcounter2 := $page.Params.eqcounter }}
+
+{{ $neweqcounter := add $eqcounter2 1 }}
+
+
+{{- .Scratch.Set "eqcounter" "neweqcounter" }}
