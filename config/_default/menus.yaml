@@ -22,6 +22,9 @@ main:
   - name: Publications
     url: pubs
     weight: 50
+  - name: Theory
+    url: theory
+    weight: 55
   - name: Contact
     url: contact
     weight: 60

@@ -1,0 +1,11 @@
+{{/* Function to update the equation counter. */}}
+
+{{ $page := .Page }}
+{{ $eqcounter := $page.Params.eqcounter }}
+
+
+
+{{ if 0 }}
+{{ $eqcounter = add $eqcounter 1 }}
+{{ return $eqcounter }}
+{{ end }}

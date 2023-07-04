@@ -30,7 +30,7 @@ PhD students will be paid **15,000NTD per month** as a minimum. However, getting
 - Actively improving your English will also be rewarded. 
 - Contributions to publications of other NSYSU professors will also be rewarded (between 100-300NTD). 
 - The NSYSU Physics department pays additional salary for marking undergraduate homeworks (as a teaching assistant) with salary depending on number of homeworks marked.
-- For additional salary, you can apply for the [*International Elite Doctoral Student Entrance Scholarship*](https://phys.nsysu.edu.tw/p/406-1181-286093,r111.php?Lang=en) provided by the Office of Academic Affairs, NSYSU. See chapter III of this [PDF](https://oia.nsysu.edu.tw/static/file/308/1308/img/3665/688144043.pdf).
+<!--- For additional salary, you can apply for the [*International Elite Doctoral Student Entrance Scholarship*](https://phys.nsysu.edu.tw/p/406-1181-286093,r111.php?Lang=en) provided by the Office of Academic Affairs, NSYSU. See chapter III of this [PDF](https://oia.nsysu.edu.tw/static/file/308/1308/img/3665/688144043.pdf). -->
 
 
 ### Research area
@@ -43,13 +43,16 @@ You will be working with ultra-fast (100 femtosecond) optical equipment. This wi
 flowchart TD
     A[Ultrafast optics] --> B(Photoluminescence spectroscopy) 
     A --> C(Time-resolved \n Terahertz spectroscopy)
-    B-->  D[Semiconductor material \n and device characterization]
+    B-->  D[Semiconductor material \n and device characterization ]
     C --> D
     C --> E[Biomedical applications]
     B --> F
     C  --> F[Single-pixel imaging] 
     F --> |Terahertz only| E
     D --> F
+
+    click C "../../theory/thz_spectroscopy"
+
 ```
   
 

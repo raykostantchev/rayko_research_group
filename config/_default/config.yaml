@@ -24,11 +24,13 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+    - path: github.com/r-lib/hugodown
+    - path: github.com/peaceiris/hugo-mod-mathjax
+
 
 ############################
 ## ADVANCED
 ############################
-
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
@@ -57,6 +59,20 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  asciidocExt:
+    sectionNumbers: true
+
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+      
+      
+  tableOfContents:
+    endLevel: 4
+    ordered: false
+    startLevel: 2
+    
 related:
   threshold: 80
   includeNewer: true

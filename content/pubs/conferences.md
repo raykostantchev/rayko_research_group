@@ -10,6 +10,7 @@ weight = 20  # Order that this section will appear.
 title = "Conference Proceedings"
 subtitle = "Published Conference Proceedings"
 
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"

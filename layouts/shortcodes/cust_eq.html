@@ -1,0 +1,33 @@
+{{/* Figure Shortcode for Wowchemy. */}}
+{{/* Load image from page dir falling back to media library at `assets/media/` and then to remote URI. */}}
+{{/* Note: Uses `{{-` to unindent HTML so that Figure shortcode can be nested within a `{{%` Markdown shortcode,
+     such as Callout, without the HTML being rendered as a Markdown code block. */}}
+
+{{/*
+    Docs: https://wowchemy.com/docs/content/writing-markdown-latex/#single-image
+
+    Parameters
+    ----------
+    src :
+        Path to file or url for the image.
+        If a local file, first it is searched in the page directory, and then in `assets/media/` .
+
+    id : optional
+        Custom id "figure-{id}" to associate to the tag.
+
+
+
+    numbered : default "false"
+        If "true", the caption is numbered.
+*/}}
+{{ $eq_src := .Get "src" }}
+{{ $id := anchorize (.Get "id") }}
+{{ $numbered := .Get "numbered" }}
+{{ $page := .Page }}
+
+\begin{equation}   
+{{ $eq_src }} \tag{ {{ $id }} }
+\end{equation}
+<eqn {{ with $id }}id="{{ . }}"{{ end }} >
+</eqn>
+

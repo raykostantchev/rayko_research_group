@@ -4,3 +4,39 @@ div2 {
   text-align: justify;
 }
 
+.row {
+	display: flex;
+	vertical-align: baseline;
+}
+  
+.column {
+	flex: 10%;
+	padding: 13px;
+}
+
+
+
+body {
+	counter-reset: eqNum;
+}
+
+eqn::after{
+  counter-increment: eqNum;
+  content:none;
+}
+
+
+eqn{ 
+	position: relative;
+	top: -2.5em;
+	left: 90%;
+	line-height: 0;
+	white-space: nowrap;
+	display: inline;
+}
+
+.inside {
+  list-style-position: inside;
+  list-style-type: square;
+}
+
