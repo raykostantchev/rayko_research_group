@@ -1,5 +1,5 @@
 ---
-title: Master's student position (No funding).
+title: Master's student position.
 date: '2023-02-22'
 #lastmod: '2022-09-01T10:24:33+08:00'
 
@@ -14,8 +14,7 @@ image:
 
 ---
 <div2>
-<!---There is an available MSc position under the Rayko Research group. -->
-I have ran out of funding, so unless you can self-fund then I can't offer you a master position :/
+There is an available MSc position under the Rayko Research group.
 <!--more-->
 {{< toc hide_on="xl" >}}
 
@@ -26,7 +25,7 @@ I am hiring Master's students to work in my laboratory. As I have just refurbish
 
 
 ### Salary
-MSc students will be paid **10,000NTD per month** as a minimum (but not funding now). However, getting good results will increase your salary 
+MSc students will be paid **10,000 to 15,000 NTD per month** as a minimum. However, getting good results will increase your salary 
 - Acceptance of first author publications will increase your monthly salary by 500NTD, or more for high quality journals.
 - Actively improving your English will also be rewarded. 
 - Contributions to publications of other NSYSU professors will also be rewarded (between 100-300NTD). 
