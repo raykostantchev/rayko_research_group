@@ -26,6 +26,7 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
     - path: github.com/r-lib/hugodown
     - path: github.com/peaceiris/hugo-mod-mathjax
+    - path: github.com/mermaid-js/mermaid
 
 
 ############################
