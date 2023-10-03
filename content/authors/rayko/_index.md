@@ -97,7 +97,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'rayko.stantchev@g-mail.nsysu.edu.tw'
 
 highlight_name: true
 

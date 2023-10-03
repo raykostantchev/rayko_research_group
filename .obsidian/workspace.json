@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "f3c9ac257c03c9f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "61764dcd0ec80e47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a7ffc7edb19ecd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/theory/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2e1475c29e302a4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d174731e6a859558",
+            "type": "leaf",
+            "state": {
+              "type": "hugo-preview-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cc2b75200790cea",
+    "type": "split",
+    "children": [
+      {
+        "id": "802b05396b1ae966",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5893d8f925b3159f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63eab48681bf2fd9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab500363b93ab6a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f25b9513aa050d6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "15c03fef74a76656",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98d41b03b6cb6050",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/theory/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e590a767c5c7a1ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/theory/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "400da27339e21097",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2afcd18852d9532b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/theory/_index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d174731e6a859558",
+  "lastOpenFiles": [
+    "content/theory/THz_spectroscopy/index.md",
+    "content/positions/PhD_terabotics/index.md",
+    "content/positions/PhD_terabotics/lab_space.jpg",
+    "content/post/2023-01-16_TPS2023/index.md"
+  ]
+}
