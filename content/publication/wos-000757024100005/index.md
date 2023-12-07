@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Rapid Imaging of Pulsed Terahertz Radiation with Spatial Light Modulators and
-  Neural Networks
+title: Rapid Imaging of Pulsed Terahertz Radiation with Spatial Light Modulators and Neural Networks
 subtitle: ''
 summary: ''
 authors:

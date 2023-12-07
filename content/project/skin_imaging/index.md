@@ -1,5 +1,5 @@
 ---
-title: Empty Project
+title: THz imaging of skin
 summary: Website is underconstruction, so will update in the future.
 tags:
   - Empty tag
@@ -9,19 +9,20 @@ authors:
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
 
+
+type: book
+share: false
+show_date: true
+profile: false
+
+weight: 10
 #links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
 #    url: 
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -31,18 +32,22 @@ url_video: ''
 # slides: example
 ---
 
-The website is underconstruction, so there is no project here yet. But check out the slides below
-{{< gdocs src="http://localhost:1313/slides/example" scrolling="no" >}}
+
+The website is underconstruction, so the project is yet to be updated.
+
+{{<timeline>}}
 
 
 
-```mermaid
-gantt
-  dateFormat  YYYY-MM-DD
-  section Section史
-  A task           :a1, 2023-11-01, 30d
-  Another task     :after a1  , 20d
-  section Another
-  Task in sec      :2023-11-01  , 12d
-  another task      : 24d
-```
+    {{% event title="Empty space" to="2021-11-01" %}}
+    
+something
+
+    {{% /event %}}
+
+  {{% event title="Some more empty space" to="2020-01-01"%}}
+I'm working here
+    {{% /event %}}
+
+{{</timeline>}}
+
