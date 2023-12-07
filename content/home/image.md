@@ -19,6 +19,7 @@ design:
   columns: '1'
   background:
     image: NSYSU_physics.png
+    #image: background.png
     image_darken: 0
     image_parallax: false
     image_position: center

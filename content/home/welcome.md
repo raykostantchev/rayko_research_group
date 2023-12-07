@@ -17,7 +17,21 @@ design:
   # Add custom styles
   css_style:
   css_class:
-
+    
+  background:
+    image: background.png
+      # Name of image in `assets/media/`.
+      #image: 'background.png'
+      #filters:
+        #brightness: 0.5
+      #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+      #size: actual
+      # Image focal point. Options include `left`, `center` (default), or `right`.
+      #position: center
+      # Use a fun parallax-like fixed background effect on desktop? true/false
+      #parallax: true
+      # Text color (true=light, false=dark, or remove for the dynamic theme color).
+      #text_color_light: true
   
 ---
 
