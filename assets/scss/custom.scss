@@ -18,6 +18,10 @@ div2 {
   background-image: url(background.svg);
 }
 
+.docs-article-container {
+  max-width: 1060px;
+  text-align: justify;
+}
 
 body {
 	counter-reset: eqNum;
@@ -130,7 +134,7 @@ timeline
 
 /* card title format */
 .timeline .content .title {
-  padding: 5px 30px;
+  padding: 3px 15px;
   font-weight: bold;
   display: inline-block;
 }
@@ -147,7 +151,7 @@ timeline
 
 /* body size */
 .timeline .content .body {
-  padding: 5px 30px;
+  padding: 5px 15px;
 }
 
 /* responsive for small devices*/
@@ -155,7 +159,7 @@ timeline
   .timeline .container {
     padding: 10px 10px 10px 40px;
     left: -3%;
-    width: 85%;
+    width: 95%;
   }
   .timeline .container .date {
     font-size: small;
