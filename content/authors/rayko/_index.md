@@ -51,7 +51,7 @@ experience:
           location: Kaohsiung, Taiwan R.O.C.
           date_start: '2022-09-01'
           date_end: ''
-          description: Teaching Physics courses and doing research in Optical Physics
+          description: Teaching Physics courses and doing research in Optical Physics 
        
         - title: Postdoctoral Researcher
           company: University of Warwick, Department of Physics
