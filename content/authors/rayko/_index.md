@@ -51,7 +51,7 @@ experience:
           location: Kaohsiung, Taiwan R.O.C.
           date_start: '2022-09-01'
           date_end: ''
-          description: Teaching Physics courses and doing research in Optical Physics
+          description: Teaching Physics courses and doing research in Optical Physics 
        
         - title: Postdoctoral Researcher
           company: University of Warwick, Department of Physics
@@ -136,12 +136,10 @@ Upon completion of his thesis, in 2017, he moved to Hong Kong for a postdoc with
 
 {{< spoiler text="Click to view my availability" >}}
 
-<iframe src="https://calendar.google.com/calendar/embed?src=rayko.stantchev%40g-mail.nsysu.edu.tw&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-https://calendar.google.com/calendar/embed?src=rayko.stantchev%40g-mail.nsysu.edu.tw&mode=WEEK&src=Y18zMmQzNGJlYmI5YWNiNmRkYTQ3NmM0YmM5NDkyNDM2ODk2OGRiZWE1ODE5NzRiYTEyZTc0ODViNjMzZDVhYzMxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
-
 
 <iframe src="https://calendar.google.com/calendar/embed?src=rayko.stantchev%40g-mail.nsysu.edu.tw&mode=WEEK&src=Y18zMmQzNGJlYmI5YWNiNmRkYTQ3NmM0YmM5NDkyNDM2ODk2OGRiZWE1ODE5NzRiYTEyZTc0ODViNjMzZDVhYzMxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<a href="https://calendar.google.com/calendar/embed?src=rayko.stantchev%40g-mail.nsysu.edu.tw&mode=WEEK&src=Y18zMmQzNGJlYmI5YWNiNmRkYTQ3NmM0YmM5NDkyNDM2ODk2OGRiZWE1ODE5NzRiYTEyZTc0ODViNjMzZDVhYzMxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20">Link to Schedule</a>
 
 {{< /spoiler >}}
 

@@ -23,7 +23,7 @@
 {{ end }}
 
 {{ $order := "" }}
-{{ if and ($widget.Params.design.flip_alt_rows | default true) (not (modBool $index 2)) }}
+{{ if and ($widget.Params.design.flip_alt_rows | default true) ( (modBool $index 1)) }}
   {{ $order = "order-md-2" }}
 {{ end }}
 
@@ -39,9 +39,11 @@
 
       {{ with $summary }}
       <div class="article-style">
-        {{ . }}
+        {{ . }}   
       </div>
       {{ end }}
+<br>
+{{- $item.Date.Format "Mon - 02/Jan/2006" -}}
 
       <div class="btn-links">
         {{ partial "page_links" (dict "page" $item "is_list" 0) }}

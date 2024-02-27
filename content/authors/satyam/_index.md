@@ -58,7 +58,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:m112030040@student.nsysu.edu.tw'
+    link: 'mailto:satyampriyanshu@g-mail.nsysu.edu.tw'
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
