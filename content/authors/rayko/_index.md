@@ -134,3 +134,14 @@ Immediately after, without a Master's degree, in Exeter he started a PhD in expe
 Upon completion of his thesis, in 2017, he moved to Hong Kong for a postdoc with the THz group of E. Pickwell-MacPherson in the Chinese university of Hong Kong. In 2021, the THz group in Hong Kong completely moved to the UK at the University of Warwick and Rayko was based here until Aug/2022. Then he moved to Taiwan to be an assistant professor at the National Sun Yat-sen University where he is currently at, whilst holding an honorary research fellow position at the University of Warwick.
 
 
+{{< spoiler text="Click to view my availability" >}}
+
+<iframe src="https://calendar.google.com/calendar/embed?src=rayko.stantchev%40g-mail.nsysu.edu.tw&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+https://calendar.google.com/calendar/embed?src=rayko.stantchev%40g-mail.nsysu.edu.tw&mode=WEEK&src=Y18zMmQzNGJlYmI5YWNiNmRkYTQ3NmM0YmM5NDkyNDM2ODk2OGRiZWE1ODE5NzRiYTEyZTc0ODViNjMzZDVhYzMxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
+
+
+<iframe src="https://calendar.google.com/calendar/embed?src=rayko.stantchev%40g-mail.nsysu.edu.tw&mode=WEEK&src=Y18zMmQzNGJlYmI5YWNiNmRkYTQ3NmM0YmM5NDkyNDM2ODk2OGRiZWE1ODE5NzRiYTEyZTc0ODViNjMzZDVhYzMxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+{{< /spoiler >}}
+
