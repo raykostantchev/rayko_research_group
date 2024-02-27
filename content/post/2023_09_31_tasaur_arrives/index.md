@@ -4,7 +4,7 @@ date: '2023-09-27'
 #lastmod: '2022-09-01T10:24:33+08:00'
 
 image:
-  focal_point: 'top'
+  focal_point: 'middle'
 ---
 
 Tasaur Hussain has arrived to Kaohsiung to begin his doctorate studies at the Department of Physics at NSYSU.
