@@ -63,7 +63,7 @@ experience:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:m122030037@student.nsysu.edu.tw'
+    link: 'mailto:D122030008@student.nsysu.edu.tw'
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
