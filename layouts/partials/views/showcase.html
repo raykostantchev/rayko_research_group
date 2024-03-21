@@ -42,8 +42,9 @@
         {{ . }}   
       </div>
       {{ end }}
-<br>
+<div style="text-align:right">
 {{- $item.Date.Format "Mon - 02/Jan/2006" -}}
+</div>
 
       <div class="btn-links">
         {{ partial "page_links" (dict "page" $item "is_list" 0) }}
