@@ -22,9 +22,12 @@ main:
   - name: Publications
     url: pubs
     weight: 50
+  - name: Taiwan THz conference
+    url: thz_taiwan
+    weight: 53
   - name: Theory
     url: theory
-    weight: 55
+    weight: 70
   - name: Contact
     url: contact
-    weight: 60
+    weight: 80
