@@ -19,9 +19,16 @@ There is an available MSc position under the Rayko Research group.
 {{< toc hide_on="xl" >}}
 
 I am hiring Master's students to work in my laboratory. As I have just refurbished the laboratory from the previous professor, you will be getting a brand new workspace. I also inherited an optical laboratory and you will be working with it.
-|     |     | 
-|:---:|:---:|
-| ![workspace](workspace.jpg "The Student Workspace") | ![lab](lab_space.jpg "Ultra-fast optical laboratory") |
+
+
+<table class="table2">
+<tr>
+  <td>{{< figure src="./workspace.jpg" title="The Student Workspace" alt="The Student Workspace" width=100% >}} </td>
+  <td>{{< figure src="./lab_space.jpg" title="Ultra-fast optical laboratory" alt="Ultra-fast optical laboratory" width=100% >}} </td>
+</tr>
+
+</table>
+
 
 
 ### Salary
