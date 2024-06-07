@@ -44,26 +44,26 @@ Welcome to the webpage showing the information about the *Taiwan THz conference 
 
 | Time  | Speaker  | Talk Title |
 |:---------:|:---------:|:---------:|
-| 10:50-11:00 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Opening Remarks | 
-| 11:00-11:20 | Javed Iqbal | Investigation and fabrication of high-K and low-loss structural nanocomposites for THz wave | 
-| 11:20-11:40 |  Speaker  |   | 
-| 11:40-12:00 | Prabir Garu | Design of SIW-fed endfire exponential tapered horn antenna for sub-THz communications | 
-| **12:00-12:40** | **Lunch** | 40 Mins break | 
-| 12:40-13:00 | Pouya Torkaman | Harmonizing Nonlinearity in Channel: Forging a Path to Robust THz Communication Systems | 
-| 13:00-13:20 | [Chan-Shan Yang](https://scholar.lib.ntnu.edu.tw/zh/persons/chan-shan-yang) | Talk title to be confirmed | 
-| 13:20-13:40 | [Chih-Wei Luo](https://phys.nycu.edu.tw/en/portfolio-item/%E7%BE%85%E5%BF%97%E5%81%89-%E6%95%99%E6%8E%88/) | Generation and manipulation of circularly polarized THz dual pulses | 
-| **13:40-13:55** | **Tea & Coffee** | 15 mins break | 
-| 13:55-14:15 | [Hsin-Yu Yao](https://physics.ccu.edu.tw/p/404-1077-33740.php?Lang=zh-tw) | Ultra-sensitive refractive index sensing based on a tri-mode accidental-boundstate in continuum of an ultra-thin high-contrast dielectric grating | 
-| 14:15-14:35 | Seyed Mostafa Latifi | High refractive index photocurable ceramic resin for THz applications | 
-| 14:35-14:55 | [Yu-Hsiang Cheng](https://homepage.ntu.edu.tw/~yuhsiang/pi.html) | THz filters and couplers fabricated by laser machining and photolithography | 
-| **14:55-15:10** | **Tea & Coffee** | 15 mins break | 
-| 15:10-15:30 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Analytical expression for enhanced focusing of short focal-length spherical THz lenses | 
-| 15:30-15:50 |  Speaker  |   | 
+| 11:00-11:10 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Opening Remarks | 
+| 11:10-11:30 | Javed Iqbal | Investigation and fabrication of high-K and low-loss structural nanocomposites for THz wave | 
+| 11:30-11:50 | [Hsin-Yu Yao](https://physics.ccu.edu.tw/p/404-1077-33740.php?Lang=zh-tw) | Ultra-sensitive refractive index sensing based on a tri-mode accidental-boundstate in continuum of an ultra-thin high-contrast dielectric grating | 
+| 11:50-12:10 | Prabir Garu | Design of SIW-fed endfire exponential tapered horn antenna for sub-THz communications | 
+| **12:10-12:50** | **Lunch** | 40 Mins break | 
+| 12:50-13:10 | Pouya Torkaman | Harmonizing Nonlinearity in Channel: Forging a Path to Robust THz Communication Systems | 
+| 13:10-13:30 | [Chan-Shan Yang](https://scholar.lib.ntnu.edu.tw/zh/persons/chan-shan-yang) | THz metamaterial gas sensor utilizing composite membrane ZnO/V-MOF for nitrogen dioxide detection | 
+| 13:30-13:50 | [Chien-Ming Tu](https://ep.nycu.edu.tw/en/faculty_info/%e6%9d%9c%e5%bb%ba%e6%98%8e/) | Terahertz emission spectroscopy of topological material candidate SrCd2Sb2 single crystals | 
+| **13:50-14:10** | **Tea & Coffee** | 20 mins break | 
+| 14:10-14:30 | Chia-Ming Mai | Hyperspectral Terahertz Computational Imaging and Its Applications | 
+| 14:30-14:50 | Seyed Mostafa Latifi | High refractive index photocurable ceramic resin for THz applications | 
+| 14:50-15:10 | [Yu-Hsiang Cheng](https://homepage.ntu.edu.tw/~yuhsiang/pi.html) | THz filters and couplers fabricated by laser machining and photolithography | 
+| **15:10-15:30** | **Tea & Coffee** | 20 mins break | 
+| 15:30-15:50 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Analytical expression for enhanced focusing of short focal-length spherical THz lenses | 
 | 15:50-16:10 | [Hui-Hsin Hsiao](https://scholars.lib.ntu.edu.tw/cris/rp/rp200463) | Selective multi-wavelength and narrowband infrared thermal emitters | 
-| **16:10-16:25** | **Tea & Coffee** | 15 mins break | 
-| 16:25-16:45 |  Speaker  |   | 
-| 16:45-17:05 |  Speaker  |   | 
-| 17:05-17:10 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Closing Remarks | 
+| **16:10-16:30** | **Tea & Coffee** | 20 mins break | 
+| 16:30-16:40 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Closing Remarks | 
+| 16:40-17:05 | Laboratory view | Laboratory view | 
+
+
 
 
 All talks are 16 minutes long with 3 minutes of questions (and 1 min for change over).
