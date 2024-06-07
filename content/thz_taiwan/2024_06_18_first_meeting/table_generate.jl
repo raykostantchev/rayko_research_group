@@ -12,13 +12,14 @@ T1 =    ["Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Opening Remarks"
           "Chien-Ming Tu" "https://ep.nycu.edu.tw/en/faculty_info/%e6%9d%9c%e5%bb%ba%e6%98%8e/" "Terahertz emission spectroscopy of topological material candidate SrCd2Sb2 single crystals" 0;
 
           "**Tea & Coffee**" 1 "20 mins break" 1;
-          "Chia-Ming Mai" 1 "Hyperspectral Terahertz Computational Imaging and Its Applications" 0;
+          "Hui-Hsin Hsiao" "https://scholars.lib.ntu.edu.tw/cris/rp/rp200463" "Selective multi-wavelength and narrowband infrared thermal emitters" 0;
           "Seyed Mostafa Latifi" 1 "High refractive index photocurable ceramic resin for THz applications" 0;
           "Yu-Hsiang Cheng" "https://homepage.ntu.edu.tw/~yuhsiang/pi.html" "THz filters and couplers fabricated by laser machining and photolithography" 0;
 
           "**Tea & Coffee**" 1 "20 mins break" 1;
+          "Chia-Ming Mai" 1 "Hyperspectral Terahertz Computational Imaging and Its Applications" 0;
           "Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Analytical expression for enhanced focusing of short focal-length spherical THz lenses" 0;
-          "Hui-Hsin Hsiao" "https://scholars.lib.ntu.edu.tw/cris/rp/rp200463" "Selective multi-wavelength and narrowband infrared thermal emitters" 0;
+
 
           "**Tea & Coffee**" 1 "20 mins break" 1;
           "Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Closing Remarks" 3;

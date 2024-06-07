@@ -53,12 +53,12 @@ Welcome to the webpage showing the information about the *Taiwan THz conference 
 | 13:10-13:30 | [Chan-Shan Yang](https://scholar.lib.ntnu.edu.tw/zh/persons/chan-shan-yang) | THz metamaterial gas sensor utilizing composite membrane ZnO/V-MOF for nitrogen dioxide detection | 
 | 13:30-13:50 | [Chien-Ming Tu](https://ep.nycu.edu.tw/en/faculty_info/%e6%9d%9c%e5%bb%ba%e6%98%8e/) | Terahertz emission spectroscopy of topological material candidate SrCd2Sb2 single crystals | 
 | **13:50-14:10** | **Tea & Coffee** | 20 mins break | 
-| 14:10-14:30 | Chia-Ming Mai | Hyperspectral Terahertz Computational Imaging and Its Applications | 
+| 14:10-14:30 | [Hui-Hsin Hsiao](https://scholars.lib.ntu.edu.tw/cris/rp/rp200463) | Selective multi-wavelength and narrowband infrared thermal emitters | 
 | 14:30-14:50 | Seyed Mostafa Latifi | High refractive index photocurable ceramic resin for THz applications | 
 | 14:50-15:10 | [Yu-Hsiang Cheng](https://homepage.ntu.edu.tw/~yuhsiang/pi.html) | THz filters and couplers fabricated by laser machining and photolithography | 
 | **15:10-15:30** | **Tea & Coffee** | 20 mins break | 
-| 15:30-15:50 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Analytical expression for enhanced focusing of short focal-length spherical THz lenses | 
-| 15:50-16:10 | [Hui-Hsin Hsiao](https://scholars.lib.ntu.edu.tw/cris/rp/rp200463) | Selective multi-wavelength and narrowband infrared thermal emitters | 
+| 15:30-15:50 | Chia-Ming Mai | Hyperspectral Terahertz Computational Imaging and Its Applications | 
+| 15:50-16:10 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Analytical expression for enhanced focusing of short focal-length spherical THz lenses | 
 | **16:10-16:30** | **Tea & Coffee** | 20 mins break | 
 | 16:30-16:40 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Closing Remarks | 
 | 16:40-17:05 | Laboratory view | Laboratory view | 
@@ -66,8 +66,9 @@ Welcome to the webpage showing the information about the *Taiwan THz conference 
 
 
 
+
 All talks are 16 minutes long with 3 minutes of questions (and 1 min for change over).
-This is current talk schedule of confirmed talks as of 02/May, it might change.
+This is current talk schedule of confirmed talks as of 07/June, it might change.
 
 
 
