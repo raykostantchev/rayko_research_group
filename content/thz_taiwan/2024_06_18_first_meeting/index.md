@@ -48,20 +48,21 @@ Welcome to the webpage showing the information about the *Taiwan THz conference 
 | 11:10-11:30 | Javed Iqbal | Investigation and fabrication of high-K and low-loss structural nanocomposites for THz wave | 
 | 11:30-11:50 | [Hsin-Yu Yao](https://physics.ccu.edu.tw/p/404-1077-33740.php?Lang=zh-tw) | Ultra-sensitive refractive index sensing based on a tri-mode accidental-boundstate in continuum of an ultra-thin high-contrast dielectric grating | 
 | 11:50-12:10 | Prabir Garu | Design of SIW-fed endfire exponential tapered horn antenna for sub-THz communications | 
-| **12:10-12:50** | **Lunch** | 40 Mins break | 
+| **12:10-12:50** | **Lunch** | **40 Mins lunch break** | 
 | 12:50-13:10 | Pouya Torkaman | Harmonizing Nonlinearity in Channel: Forging a Path to Robust THz Communication Systems | 
-| 13:10-13:30 | [Chan-Shan Yang](https://scholar.lib.ntnu.edu.tw/zh/persons/chan-shan-yang) | THz metamaterial gas sensor utilizing composite membrane ZnO/V-MOF for nitrogen dioxide detection | 
+| 13:10-13:30 | [Chan-Shan Yang](https://scholar.lib.ntnu.edu.tw/zh/persons/chan-shan-yang) | Terahertz Mie resonance and magnetoplasmonic effect by chain formation in ferrofluid | 
 | 13:30-13:50 | [Chien-Ming Tu](https://ep.nycu.edu.tw/en/faculty_info/%e6%9d%9c%e5%bb%ba%e6%98%8e/) | Terahertz emission spectroscopy of topological material candidate SrCd2Sb2 single crystals | 
-| **13:50-14:10** | **Tea & Coffee** | 20 mins break | 
+| **13:50-14:10** | **Tea & Coffee** | **20 mins break** | 
 | 14:10-14:30 | [Hui-Hsin Hsiao](https://scholars.lib.ntu.edu.tw/cris/rp/rp200463) | Selective multi-wavelength and narrowband infrared thermal emitters | 
 | 14:30-14:50 | Seyed Mostafa Latifi | High refractive index photocurable ceramic resin for THz applications | 
 | 14:50-15:10 | [Yu-Hsiang Cheng](https://homepage.ntu.edu.tw/~yuhsiang/pi.html) | THz filters and couplers fabricated by laser machining and photolithography | 
-| **15:10-15:30** | **Tea & Coffee** | 20 mins break | 
+| **15:10-15:30** | **Tea & Coffee** | **20 mins break** | 
 | 15:30-15:50 | Chia-Ming Mai | Hyperspectral Terahertz Computational Imaging and Its Applications | 
 | 15:50-16:10 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Analytical expression for enhanced focusing of short focal-length spherical THz lenses | 
-| **16:10-16:30** | **Tea & Coffee** | 20 mins break | 
+| **16:10-16:30** | **Tea & Coffee** | **20 mins break** | 
 | 16:30-16:40 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Closing Remarks | 
-| 16:40-17:05 | Laboratory view | Laboratory view | 
+| 16:40-17:10 | Laboratory Tour | Optional Laboratory Tour | 
+
 
 
 
