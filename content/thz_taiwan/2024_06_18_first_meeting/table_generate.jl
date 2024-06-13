@@ -20,9 +20,8 @@ T1 =    ["Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Opening Remarks"
           "Chia-Ming Mai" 1 "Hyperspectral Terahertz Computational Imaging and Its Applications" 0;
           "Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Analytical expression for enhanced focusing of short focal-length spherical THz lenses" 0;
 
-
-          "**Tea & Coffee**" 1 "**20 mins break**" 1;
           "Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Closing Remarks" 3;
+          "**Tea & Coffee**" 1 "**20 mins break**" 1;
           "Laboratory Tour" 1 "Optional Laboratory Tour" 4;
 ]
 

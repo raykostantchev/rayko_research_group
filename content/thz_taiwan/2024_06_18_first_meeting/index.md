@@ -59,8 +59,8 @@ Welcome to the webpage showing the information about the *Taiwan THz conference 
 | **15:10-15:30** | **Tea & Coffee** | **20 mins break** | 
 | 15:30-15:50 | Chia-Ming Mai | Hyperspectral Terahertz Computational Imaging and Its Applications | 
 | 15:50-16:10 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Analytical expression for enhanced focusing of short focal-length spherical THz lenses | 
-| **16:10-16:30** | **Tea & Coffee** | **20 mins break** | 
-| 16:30-16:40 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Closing Remarks | 
+| 16:10-16:20 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Closing Remarks | 
+| **16:20-16:40** | **Tea & Coffee** | **20 mins break** | 
 | 16:40-17:10 | Laboratory Tour | Optional Laboratory Tour | 
 
 
