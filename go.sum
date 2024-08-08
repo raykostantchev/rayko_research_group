@@ -1,5 +1,7 @@
 github.com/Chrede88/wowchemy-shortcode-figArray v0.0.0-20211105225721-e4f2dccd19d9 h1:grTL/UQvVB7ICbrW9QLc+tzxNwoPo2ihLtoYx6HsjvU=
 github.com/Chrede88/wowchemy-shortcode-figArray v0.0.0-20211105225721-e4f2dccd19d9/go.mod h1:++oaqoV9CpTenvLkLS7XUCujg3tnHsraP2WI9a3MEZc=
+github.com/hugomods/gravatar v0.2.0 h1:642HNhGN7Mw7qefNcUFJKzLoT2zJKt4IQkrS53mIUfA=
+github.com/hugomods/gravatar v0.2.0/go.mod h1:oATWuh5u2XUK/ZKzOD0VEP5I/TZfVZwplTyhT61Q4Fc=
 github.com/lukeorth/poison v0.0.0-20230703094142-cdb235ee750d h1:KeAnExUGZctEZ41WwEj1b3QRbdF4kHCud6T0RFNV6Y8=
 github.com/lukeorth/poison v0.0.0-20230703094142-cdb235ee750d/go.mod h1:fYVpevZiA79ef8Q1DkUgg/MF53oy4mKFSFTnK+EeiO0=
 github.com/mathjax/MathJax v0.0.0-20210617144258-7146ffa47956/go.mod h1:bgp6XP7Dtl25/x6vVIPVe2mkOCrg8wMk/A9gl0FzJLA=

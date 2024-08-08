@@ -22,16 +22,15 @@ T1 =    ["Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Opening Remarks"
 
           "Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Closing Remarks" 3;
           "**Tea & Coffee**" 1 "**20 mins break**" 1;
-          "Laboratory Tour" 1 "Optional Laboratory Tour" 4;
+          "Laboratory Tour" 1 "Optional Laboratory Tour" 35;
 ]
 
 
 T_start =  DateTime(2024,06,18,11,00) ;
 
 function write_line( x, t )
-    t_add = Dates.Minute(20)
+    t_add = Dates.Minute(Int64(x[4]))
     date_form = "HH:MM"
-
     if x[4]==1
         t_add = Dates.Minute(20) # Tea break
         date_form = "**HH:MM**"
@@ -42,7 +41,13 @@ function write_line( x, t )
         t_add = Dates.Minute(10) # Opening remark
     elseif x[4]==4
         t_add = Dates.Minute( 30 ) # Laboratory tour
+    elseif x[4]==0
+        t_add = Dates.Minute(20) # Talk
+    else
+        t_add = Dates.Minute(Int64(x[4]))
     end
+
+    println(t_add)
 
     t_end = t+t_add
     time = string( "| ", Dates.format(t, date_form), "-", Dates.format(t_end, date_form) )

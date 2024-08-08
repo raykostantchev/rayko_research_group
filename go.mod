@@ -4,6 +4,7 @@ go 1.15
 
 require (
 	github.com/Chrede88/wowchemy-shortcode-figArray v0.0.0-20211105225721-e4f2dccd19d9 // indirect
+	github.com/hugomods/gravatar v0.2.0 // indirect
 	github.com/lukeorth/poison v0.0.0-20230703094142-cdb235ee750d // indirect
 	github.com/mermaid-js/mermaid v10.4.0+incompatible // indirect
 	github.com/peaceiris/hugo-mod-mathjax v0.2.0 // indirect
