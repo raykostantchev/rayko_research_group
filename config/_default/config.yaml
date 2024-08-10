@@ -27,11 +27,13 @@ module:
     - path: github.com/r-lib/hugodown
     - path: github.com/peaceiris/hugo-mod-mathjax
     - path: github.com/mermaid-js/mermaid
+    - path: github.com/hugomods/gravatar
 
 
 ############################
 ## ADVANCED
 ############################
+enableGravatar: true
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
@@ -87,3 +89,4 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
