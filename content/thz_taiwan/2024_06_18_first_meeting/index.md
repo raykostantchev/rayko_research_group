@@ -1,5 +1,5 @@
 ---
-title: Taiwan THz conference 2024
+title: Taiwan THz workshop 2024
 summary: Information about the Taiwan THz meeting, June 2024 in NSYSU.
 tags:
   - Taiwan THz
