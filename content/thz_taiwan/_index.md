@@ -5,7 +5,7 @@ title: Taiwan THz society
 view: full
 
 type: book
-weight: 5
+weight: 1
 summary: This contains information about the THz Taiwan conference series, started in 2024.
 
 # Optional banner image (relative to `assets/media/` folder).
