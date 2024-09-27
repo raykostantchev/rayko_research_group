@@ -2,7 +2,7 @@
 using Dates
 
 T1 =    ["Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Opening Remarks" 10;
-          " Empty " 1 " " 0;
+          " Elmer Estacio " "https://nip.upd.edu.ph/profiles/elmer-s-estacio/" " " 0;
           " Empty " 1 " " 0;
           " Empty " 1 " " 0;
 

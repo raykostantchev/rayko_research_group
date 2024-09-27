@@ -47,7 +47,7 @@ Welcome to the webpage showing the information about the *Taiwan THz winter work
 | Time  | Speaker  | Talk Title |
 |:---------:|:---------:|:---------:|
 | 10:00-10:10 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Opening Remarks | 
-| 10:10-10:30 |  Empty  |   | 
+| 10:10-10:30 | [ Elmer Estacio ](https://nip.upd.edu.ph/profiles/elmer-s-estacio/) |   | 
 | 10:30-10:50 |  Empty  |   | 
 | 10:50-11:10 |  Empty  |   | 
 | **11:10-11:30** | **Tea & Coffee** | **20 mins break** | 
