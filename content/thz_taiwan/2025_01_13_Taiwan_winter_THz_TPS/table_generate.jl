@@ -2,9 +2,9 @@
 using Dates
 
 T1 =    ["Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Opening Remarks" 10;
-          " Elmer Estacio " "https://nip.upd.edu.ph/profiles/elmer-s-estacio/" " " 0;
-          " Empty " 1 " " 0;
-          " Empty " 1 " " 0;
+          " Elmer Estacio " "https://nip.upd.edu.ph/profiles/elmer-s-estacio/" " To be announced " 0;
+          "Hsin-Yu Yao" "https://physics.ccu.edu.tw/p/404-1077-33740.php?Lang=zh-tw" "Intrinsic Resonance in Gyrotrons Using Non-Resonant RF Structures" 0;
+          " Chih-Wei Luo " "https://udllab.web.nycu.edu.tw/professor/" "Generation and manipulation of circularly polarized THz dual pulses" 0;
 
           "**Tea & Coffee**" 1 "**20 mins break**" 1;
           " Empty " 1 " " 0;
@@ -22,7 +22,7 @@ T1 =    ["Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Opening Remarks"
 
           "**Tea & Coffee**" 1 "**20 mins break**" 1;
           " Empty " 1 " " 0;
-          "Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "To be decided" 0;
+          "Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "To be announced" 0;
           " Empty " 1 " " 0;
 
 
@@ -53,7 +53,7 @@ function write_line( x, t )
         t_add = Dates.Minute(Int64(x[4]))
     end
 
-    println(t_add)
+    # println(t_add)
 
     t_end = t+t_add
     time = string( "| ", Dates.format(t, date_form), "-", Dates.format(t_end, date_form) )
