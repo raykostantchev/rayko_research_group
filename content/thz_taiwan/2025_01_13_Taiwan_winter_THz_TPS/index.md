@@ -47,9 +47,9 @@ Welcome to the webpage showing the information about the *Taiwan THz winter work
 | Time  | Speaker  | Talk Title |
 |:---------:|:---------:|:---------:|
 | 10:00-10:10 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Opening Remarks | 
-| 10:10-10:30 | [ Elmer Estacio ](https://nip.upd.edu.ph/profiles/elmer-s-estacio/) |   | 
-| 10:30-10:50 |  Empty  |   | 
-| 10:50-11:10 |  Empty  |   | 
+| 10:10-10:30 | [ Elmer Estacio ](https://nip.upd.edu.ph/profiles/elmer-s-estacio/) |  To be announced  | 
+| 10:30-10:50 | [Hsin-Yu Yao](https://physics.ccu.edu.tw/p/404-1077-33740.php?Lang=zh-tw) | Intrinsic Resonance in Gyrotrons Using Non-Resonant RF Structures | 
+| 10:50-11:10 | [ Chih-Wei Luo ](https://udllab.web.nycu.edu.tw/professor/) | Generation and manipulation of circularly polarized THz dual pulses | 
 | **11:10-11:30** | **Tea & Coffee** | **20 mins break** | 
 | 11:30-11:50 |  Empty  |   | 
 | 11:50-12:10 |  Empty  |   | 
@@ -63,11 +63,12 @@ Welcome to the webpage showing the information about the *Taiwan THz winter work
 | 14:50-15:10 |  Empty  |   | 
 | **15:10-15:30** | **Tea & Coffee** | **20 mins break** | 
 | 15:30-15:50 |  Empty  |   | 
-| 15:50-16:10 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | To be decided | 
+| 15:50-16:10 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | To be announced | 
 | 16:10-16:30 |  Empty  |   | 
 | 16:30-16:40 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Closing Remarks and Group photo | 
 | **16:40-17:00** | **Tea & Coffee** | **20 mins break** | 
 | 17:00-17:35 | Laboratory Tour | Optional Laboratory Tour | 
+
 
 
 
