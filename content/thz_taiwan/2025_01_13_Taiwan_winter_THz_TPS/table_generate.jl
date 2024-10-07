@@ -7,7 +7,7 @@ T1 =    ["Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Opening Remarks"
           " Chih-Wei Luo " "https://udllab.web.nycu.edu.tw/professor/" "Generation and manipulation of circularly polarized THz dual pulses" 0;
 
           "**Tea & Coffee**" 1 "**20 mins break**" 1;
-          " Empty " 1 " " 0;
+          " Chan-Shan Yang " "https://sites.google.com/view/units-lab/Home?authuser=0" " To be announced " 0;
           " Empty " 1 " " 0;
 
           "**Lunch**" 1 "**40 Mins lunch break**" 2;

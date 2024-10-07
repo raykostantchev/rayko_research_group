@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Satyam Priyanshu 
+title: Anam Ishaq 
 
 # Username (this should match the folder name)
-authors: satyam
+authors: anam_ishaq
 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MSc student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are developing terahertz equipment for biomedical applications and semiconductor investigations.
+bio: My research interests are building OCT and THz imaging equipment for biomedical applications.
 
 interests:
   - Terahertz Imaging and Sensing
@@ -27,13 +27,17 @@ interests:
 
 education:
   courses:
-    - course: MSc Physics (Electronics and Communication)
-      institution: Nilamber-Pitamber University, India
-      year: 2022
+    - course: MPhil (Physics)
+      institution: The Islamia University, Bahawalpur, Pakistan.
+      year: 2021
 
-    - course: BSc Physics Honours, 2020
-      institution: G.L.A College, India.
-      year: 2020    
+    - course: MSc Physics
+      institution: Ghazi University, D.G.Khan, Pakistan
+      year: 2018
+
+    - course: BSc Physics, 2016
+      institution: Bahauddin Zakariya University Multan, Pakistan.
+      year: 2016    
 
 
 
@@ -58,7 +62,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:satyampriyanshu@g-mail.nsysu.edu.tw'
+    link: 'mailto:D132030008@student.nsysu.edu.tw'
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -87,7 +91,7 @@ show_publications: false
 content:
   count: 60
   filters:
-    author: 'satyam'
+    author: 'anam_ishaq'
     category: ''
     exclude_featured: false
     publication_type: "2"
@@ -103,8 +107,6 @@ design:
 ---
 
   
-Satyam Priyanshu was born and brought up in India. His curiosity and interest for physics led him to pursue a higher degree in this field. He completed his Bachelor's degree in the year 2020, majoring in Physics honours from G.L.A College, India. 
+My name is Anam Ishaq, and I was born on February 2nd in Dera Ghazi Khan, Pakistan. I completed my BSc in General Mathematics, Physics, and Chemistry from Govt Graduate College for Women, Model Town, Dera Ghazi Khan. Following my passion for physics, I pursued my MSc in Physics at Ghazi University, Dera Ghazi Khan, and later completed my MPhil in Physics from The Islamia University of Bahawalpur, specializing in medical physics. My thesis was on "Coherent Scattering and Incoherent Scattering of Megavoltage Radiation."
 
-Immediately after completing his Bachelor's degree, he enrolled himself into the Master's degree program at Nilamber-Pitamber University, India where he worked under Prof. Shrawan Kumar and got his degree completed by the end of year 2022. During his four semesters in his Master's degree, in addition to other subjects, he primarily focused on Spectroscopy and Electronics, grasping on the theoretical aspects of the subject and keen on transcending into the practical realisation of the same.
-
-He is currently working in the Ultrafast Spectroscopy Laboratory at National Sun Yat-sen University, Taiwan where he is studying the applications of Terahertz waves under the guidance of Prof. Rayko Ivanov Stantchev.
+Following my MPhil, I taught as a visiting lecturer in the Physics Department at Ghazi University and the University of Education, Lahore, Dera Ghazi Khan Campus. My passion for physics led me to pursue my PhD at National Sun Yat-sen University, Taiwan, where I am continuing my academic journey in the field of physics.
