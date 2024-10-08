@@ -53,6 +53,47 @@ education:
 #          description: Teaching Physics courses to students of higher secondary level
        
 
+experience:
+    - title: Visiting Lecturer
+      company: Ghazi University, Department of Physics
+      company_url: https://www.gudgk.edu.pk/
+      location: D.G.Khan, Pakistan
+      date_start: '2024-02-14'
+      date_end: '2024-06-26'
+      description: Teaching Physics courses
+
+    - title: Visiting Lecturer
+      company: University of Education, Lahore (D.G.Khan campus), Department of Physics
+      company_url: https://ue.edu.pk/
+      location: D.G.Khan, Pakistan
+      date_start: '2022-09-19'
+      date_end: '2023-05-27'
+      description: Teaching Electronics and Digital electronics
+
+    - title: Visiting Lecturer
+      company: Ghazi University, Department of Physics
+      company_url: 'https://www.gudgk.edu.pk/'
+      location: D.G.Khan, Pakistan
+      date_start: '2022-09-01'
+      date_end: '2023-02-15'
+      description: Teaching Mechanics.
+
+    - title: College Teaching Internee
+      company: Govt. Graduate College (W) Model town, D.G.Khan
+      company_url: 'https://hep.punjab.gov.pk/Publicprograms/institute_detail/?institute_id=319'
+      location: D.G.Khan, Pakistan
+      date_start: '2022-01-07'
+      date_end: '2023-06-06'
+      description: Teaching Physics to pre-medical and pre-engineering students
+
+    - title: Visiting Lecturer
+      company: Ghazi University, Department of Physics
+      company_url: 'https://www.gudgk.edu.pk/'
+      location: D.G.Khan, Pakistan
+      date_start: '2018-09-01'
+      date_end: '2019-07-01'
+      description: Teaching Physics to undergraduates
+
 
 
 # Social/Academic Networking
@@ -107,6 +148,8 @@ design:
 ---
 
   
-My name is Anam Ishaq, and I was born on February 2nd in Dera Ghazi Khan, Pakistan. I completed my BSc in General Mathematics, Physics, and Chemistry from Govt Graduate College for Women, Model Town, Dera Ghazi Khan. Following my passion for physics, I pursued my MSc in Physics at Ghazi University, Dera Ghazi Khan, and later completed my MPhil in Physics from The Islamia University of Bahawalpur, specializing in medical physics. My thesis was on "Coherent Scattering and Incoherent Scattering of Megavoltage Radiation."
+I was born and raised in Dera Ghazi Khan, Pakistan, where I developed a passion for science despite the challenges of growing up in a small, remote town. I pursued my B.Sc. with majors in Physics, Mathematics, and Chemistry, followed by an M.Sc. in Physics from Ghazi University, achieving a CGPA of 3.84/4.00. My growing interest in Physics led me to complete my MPhil at The Islamia University of Bahawalpur, with a thesis focused on "Coherent and Incoherent Scattering of Megavoltage Radiation," earning a CGPA of 3.72/4.00.
 
-Following my MPhil, I taught as a visiting lecturer in the Physics Department at Ghazi University and the University of Education, Lahore, Dera Ghazi Khan Campus. My passion for physics led me to pursue my PhD at National Sun Yat-sen University, Taiwan, where I am continuing my academic journey in the field of physics.
+Throughout my academic journey, I have been committed to teaching, serving as a lecturer at various institutions, including Ghazi University and the University of Education Lahore (D.G. Khan Campus). I also earned a Bachelor of Education and completed the Erozgar digital skills training program.
+
+Currently, I am pursuing my PhD at National Sun Yat-sen University in Taiwan, where I aim to deepen my research in the field of physics, driven by my passion for academic excellence and innovation.
