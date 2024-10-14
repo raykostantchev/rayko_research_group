@@ -8,12 +8,12 @@ T1 =    ["Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Opening Remarks"
 
           "**Tea & Coffee**" 1 "**20 mins break**" 1;
           " Chan-Shan Yang " "https://sites.google.com/view/units-lab/Home?authuser=0" " To be announced " 0;
-          " Empty " 1 " " 0;
+          " Masafumi Fukunari " "https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002988/profile.html?lang=en" " To be announced " 0;
 
           "**Lunch**" 1 "**40 Mins lunch break**" 2;
-          " Empty " 1 " " 0;
-          " Empty " 1 " " 0;
-          " Empty " 1 " " 0;
+          " Yu-Chieh Wen " "https://www.phys.sinica.edu.tw/~optical/index_e.php?p=groupLeader_e" "Origin of Nonlinear Photocurrents in Chiral Multifold Semimetals Unveiled by Terahertz Emission Spectroscopy" 0;
+          " Yuya Ishikawa " "https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002976/profile.html?lang=en" " To be announced " 0;
+          " Hideaki Kitahara " "https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002981/profile.html?lang=en" " To be announced " 0;
 
           "**Tea & Coffee**" 1 "**20 mins break**" 1;
           " Empty " 1 " " 0;
