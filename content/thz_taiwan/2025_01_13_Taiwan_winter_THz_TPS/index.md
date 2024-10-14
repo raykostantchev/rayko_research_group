@@ -52,11 +52,11 @@ Welcome to the webpage showing the information about the *Taiwan THz winter work
 | 10:50-11:10 | [ Chih-Wei Luo ](https://udllab.web.nycu.edu.tw/professor/) | Generation and manipulation of circularly polarized THz dual pulses | 
 | **11:10-11:30** | **Tea & Coffee** | **20 mins break** | 
 | 11:30-11:50 | [ Chan-Shan Yang ](https://sites.google.com/view/units-lab/Home?authuser=0) |  To be announced  | 
-| 11:50-12:10 |  Empty  |   | 
+| 11:50-12:10 | [ Masafumi Fukunari ](https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002988/profile.html?lang=en) |  To be announced  | 
 | **12:10-12:50** | **Lunch** | **40 Mins lunch break** | 
-| 12:50-13:10 |  Empty  |   | 
-| 13:10-13:30 |  Empty  |   | 
-| 13:30-13:50 |  Empty  |   | 
+| 12:50-13:10 | [ Yu-Chieh Wen ](https://www.phys.sinica.edu.tw/~optical/index_e.php?p=groupLeader_e) | Origin of Nonlinear Photocurrents in Chiral Multifold Semimetals Unveiled by Terahertz Emission Spectroscopy | 
+| 13:10-13:30 | [ Yuya Ishikawa ](https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002976/profile.html?lang=en) |  To be announced  | 
+| 13:30-13:50 | [ Hideaki Kitahara ](https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002981/profile.html?lang=en) |  To be announced  | 
 | **13:50-14:10** | **Tea & Coffee** | **20 mins break** | 
 | 14:10-14:30 |  Empty  |   | 
 | 14:30-14:50 |  Empty  |   | 
@@ -75,8 +75,9 @@ Welcome to the webpage showing the information about the *Taiwan THz winter work
 
 
 
+
 All talks are 16 minutes long with 3 minutes of questions (and 1 min for change over).
-This is current talk schedule of confirmed talks as of 26/Sept/2025, it might change.
+This is current talk schedule of confirmed talks as of 14/Oct/2025, it will change!
 
 
 
