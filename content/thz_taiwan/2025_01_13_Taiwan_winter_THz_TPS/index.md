@@ -48,7 +48,7 @@ Welcome to the webpage showing the information about the *Taiwan THz winter work
 |:---------:|:---------:|:---------:|
 | 10:00-10:10 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Opening Remarks | 
 | 10:10-10:30 | [ Elmer Estacio ](https://nip.upd.edu.ph/profiles/elmer-s-estacio/) |  To be announced  | 
-| 10:30-10:50 | [Hsin-Yu Yao](https://physics.ccu.edu.tw/p/404-1077-33740.php?Lang=zh-tw) | Intrinsic Resonance in Gyrotrons Using Non-Resonant RF Structures | 
+| 10:30-10:50 | [ Hsin-Yu Yao ](https://physics.ccu.edu.tw/p/404-1077-33740.php?Lang=zh-tw) | Intrinsic Resonance in Gyrotrons Using Non-Resonant RF Structures | 
 | 10:50-11:10 | [ Chih-Wei Luo ](https://udllab.web.nycu.edu.tw/professor/) | Generation and manipulation of circularly polarized THz dual pulses | 
 | **11:10-11:30** | **Tea & Coffee** | **20 mins break** | 
 | 11:30-11:50 | [ Chan-Shan Yang ](https://sites.google.com/view/units-lab/Home?authuser=0) |  To be announced  | 
@@ -58,9 +58,9 @@ Welcome to the webpage showing the information about the *Taiwan THz winter work
 | 13:10-13:30 | [ Yuya Ishikawa ](https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002976/profile.html?lang=en) |  To be announced  | 
 | 13:30-13:50 | [ Hideaki Kitahara ](https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002981/profile.html?lang=en) |  To be announced  | 
 | **13:50-14:10** | **Tea & Coffee** | **20 mins break** | 
-| 14:10-14:30 |  Empty  |   | 
-| 14:30-14:50 |  Empty  |   | 
-| 14:50-15:10 |  Empty  |   | 
+| 14:10-14:30 | [ Chien-Ming Tu ](https://ep.nycu.edu.tw/en/faculty_info/%E6%9D%9C%E5%BB%BA%E6%98%8E/) | Chemical pressure-induced topological order in SrCd2(As1-xSbx)2: A terahertz emission study | 
+| 14:30-14:50 | [ Eunmi Choi ](https://emchoi.unist.ac.kr/?page_id=8) |  To be announced  | 
+| 14:50-15:10 | [ Chiko Otani ](https://www.riken.jp/en/research/labs/rap/thz_sens_imag/index.html) |  To be announced  | 
 | **15:10-15:30** | **Tea & Coffee** | **20 mins break** | 
 | 15:30-15:50 |  Empty  |   | 
 | 15:50-16:10 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | To be announced | 
@@ -75,9 +75,8 @@ Welcome to the webpage showing the information about the *Taiwan THz winter work
 
 
 
-
 All talks are 16 minutes long with 3 minutes of questions (and 1 min for change over).
-This is current talk schedule of confirmed talks as of 14/Oct/2025, it will change!
+This is current talk schedule of confirmed talks as of 23/Oct/2025, it will change!
 
 
 

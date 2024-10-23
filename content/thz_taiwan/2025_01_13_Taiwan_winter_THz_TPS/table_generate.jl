@@ -3,7 +3,7 @@ using Dates
 
 T1 =    ["Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Opening Remarks" 10;
           " Elmer Estacio " "https://nip.upd.edu.ph/profiles/elmer-s-estacio/" " To be announced " 0;
-          "Hsin-Yu Yao" "https://physics.ccu.edu.tw/p/404-1077-33740.php?Lang=zh-tw" "Intrinsic Resonance in Gyrotrons Using Non-Resonant RF Structures" 0;
+          " Hsin-Yu Yao " "https://physics.ccu.edu.tw/p/404-1077-33740.php?Lang=zh-tw" "Intrinsic Resonance in Gyrotrons Using Non-Resonant RF Structures" 0;
           " Chih-Wei Luo " "https://udllab.web.nycu.edu.tw/professor/" "Generation and manipulation of circularly polarized THz dual pulses" 0;
 
           "**Tea & Coffee**" 1 "**20 mins break**" 1;
@@ -16,9 +16,9 @@ T1 =    ["Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Opening Remarks"
           " Hideaki Kitahara " "https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002981/profile.html?lang=en" " To be announced " 0;
 
           "**Tea & Coffee**" 1 "**20 mins break**" 1;
-          " Empty " 1 " " 0;
-          " Empty " 1 " " 0;
-          " Empty " 1 " " 0;
+          " Chien-Ming Tu " "https://ep.nycu.edu.tw/en/faculty_info/%E6%9D%9C%E5%BB%BA%E6%98%8E/" "Chemical pressure-induced topological order in SrCd2(As1-xSbx)2: A terahertz emission study" 0;
+          " Eunmi Choi " "https://emchoi.unist.ac.kr/?page_id=8" " To be announced " 0;
+          " Chiko Otani " "https://www.riken.jp/en/research/labs/rap/thz_sens_imag/index.html" " To be announced " 0;
 
           "**Tea & Coffee**" 1 "**20 mins break**" 1;
           " Empty " 1 " " 0;
