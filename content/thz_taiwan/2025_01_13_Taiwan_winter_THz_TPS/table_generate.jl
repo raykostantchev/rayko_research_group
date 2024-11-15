@@ -21,7 +21,7 @@ T1 =    ["Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Opening Remarks"
           " Chiko Otani " "https://www.riken.jp/en/research/labs/rap/thz_sens_imag/index.html" " To be announced " 0;
 
           "**Tea & Coffee**" 1 "**20 mins break**" 1;
-          " Empty " 1 " " 0;
+          " Kosuke Murate " "https://profs.provost.nagoya-u.ac.jp/html/100010133_en.html" " To be announced " 0;
           "Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "To be announced" 0;
           " Empty " 1 " " 0;
 

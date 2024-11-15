@@ -62,12 +62,13 @@ Welcome to the webpage showing the information about the *Taiwan THz winter work
 | 14:30-14:50 | [ Eunmi Choi ](https://emchoi.unist.ac.kr/?page_id=8) |  To be announced  | 
 | 14:50-15:10 | [ Chiko Otani ](https://www.riken.jp/en/research/labs/rap/thz_sens_imag/index.html) |  To be announced  | 
 | **15:10-15:30** | **Tea & Coffee** | **20 mins break** | 
-| 15:30-15:50 |  Empty  |   | 
+| 15:30-15:50 | [ Kosuke Murate ](https://profs.provost.nagoya-u.ac.jp/html/100010133_en.html) |  To be announced  | 
 | 15:50-16:10 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | To be announced | 
 | 16:10-16:30 |  Empty  |   | 
 | 16:30-16:40 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Closing Remarks and Group photo | 
 | **16:40-17:00** | **Tea & Coffee** | **20 mins break** | 
 | 17:00-17:35 | Laboratory Tour | Optional Laboratory Tour | 
+ 
 
 
 
