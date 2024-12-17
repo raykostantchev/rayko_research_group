@@ -13,7 +13,7 @@ tags:
   Video
 categories: []
 date: '2021-01-01'
-lastmod: 2023-03-28T16:08:39+08:00
+lastmod: 2024-11-17T11:49:09+08:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-28T08:08:39.834053Z'
+publishDate: '2024-11-17T03:49:09.816109Z'
 publication_types:
 - '1'
 abstract: THz imaging is getting faster We are getting very close to video rate THz

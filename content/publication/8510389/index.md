@@ -18,7 +18,7 @@ tags:
 - ''
 categories: []
 date: '2018-09-01'
-lastmod: 2023-03-28T16:08:37+08:00
+lastmod: 2024-11-17T11:49:08+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-28T08:08:37.299926Z'
+publishDate: '2024-11-17T03:49:08.048758Z'
 publication_types:
 - '1'
 abstract: Subwavelength perovskite thin films can only cause less than a 10% intensity

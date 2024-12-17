@@ -15,7 +15,7 @@ tags:
   sum-of-sincs; annihilating filters
 categories: []
 date: '2022-05-01'
-lastmod: 2023-03-28T16:08:41+08:00
+lastmod: 2024-11-17T11:49:11+08:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-28T08:08:41.496742Z'
+publishDate: '2024-11-17T03:49:11.011896Z'
 publication_types:
 - '2'
 abstract: Recently, finite rate of innovation methods have been successfully applied

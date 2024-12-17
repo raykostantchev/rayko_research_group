@@ -16,7 +16,7 @@ tags:
   imaging; total internal reflection
 categories: []
 date: '2020-02-01'
-lastmod: 2023-03-28T16:08:39+08:00
+lastmod: 2024-11-17T11:49:09+08:00
 featured: false
 draft: false
 
@@ -34,16 +34,16 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-28T08:08:39.159488Z'
+publishDate: '2024-11-17T03:49:09.335681Z'
 publication_types:
 - '2'
 abstract: To promote potential applications of terahertz (THz) technology, more advanced
   functional THz devices with high performance are needed, including modulators, polarizers,
-  lenses, wave retarders, and antireflection coatings. This work summarizes recent
+  lenses, wave retarders, and  antireflection coatings. This work summarizes recent
   progress in THz components built on functional materials including graphene, vanadium
   dioxide, and metamaterials. The key message is that, while the choice of materials
   used in such devices is important, the geometry in which they are employed also
-  has a significant effect on the performance achieved. In particular, devices operating
+  has a significant effect on the performance achieved.  In particular, devices operating
   in total internal reflection geometry are reviewed, and it is explained how this
   geometry is able to be exploited to achieve a variety of THz devices with broadband
   operation.
