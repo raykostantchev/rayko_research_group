@@ -21,7 +21,7 @@ authors:
 tags: []
 categories: []
 date: '2018-12-01'
-lastmod: 2023-03-28T16:08:38+08:00
+lastmod: 2024-11-17T11:49:08+08:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-28T08:08:37.971782Z'
+publishDate: '2024-11-17T03:49:08.515424Z'
 publication_types:
 - '2'
 abstract: We employed a metallic wire grating loaded with graphene and operating in

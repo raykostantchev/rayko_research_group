@@ -13,7 +13,7 @@ tags:
 - ''
 categories: []
 date: '2019-09-01'
-lastmod: 2023-03-28T16:08:38+08:00
+lastmod: 2024-11-17T11:49:09+08:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-28T08:08:38.652220Z'
+publishDate: '2024-11-17T03:49:08.980503Z'
 publication_types:
 - '1'
 abstract: We use THz imaging to measure and quantify the effects of applying silicone

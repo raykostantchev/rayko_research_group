@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2022-05-01'
-lastmod: 2023-03-28T16:24:39+08:00
+lastmod: 2024-11-17T11:49:11+08:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-28T08:24:39.896853Z'
+publishDate: '2024-11-17T03:49:11.128653Z'
 publication_types:
 - '2'
 abstract: Terahertz time-domain spectroscopy (THz-TDS) has shown promise in biomedical
@@ -48,7 +48,7 @@ abstract: Terahertz time-domain spectroscopy (THz-TDS) has shown promise in biom
   multilayer structure for THz thin-film characterization. Published by Optica Publishing
   Group under the terms of the Creative Commons Attribution 4.0 License. Further distribution
   of this work must maintain attribution to the author(s) and the published article's
-  title, journal citation, and DOI.
+  title, journal  citation, and DOI.
 publication: '*Optics Express*'
 doi: 10.1364/OE.451633
 ---

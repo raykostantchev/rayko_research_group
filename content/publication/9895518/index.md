@@ -13,7 +13,7 @@ tags:
 - ''
 categories: []
 date: '2022-08-01'
-lastmod: 2023-03-28T16:08:40+08:00
+lastmod: 2024-11-17T11:49:10+08:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-28T08:08:40.701752Z'
+publishDate: '2024-11-17T03:49:10.408763Z'
 publication_types:
 - '1'
 abstract: 'A major obstacle to non-contact measurement of in-vivo skin samples is
