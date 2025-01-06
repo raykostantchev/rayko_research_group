@@ -8,11 +8,11 @@ T1 =    ["Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Opening Remarks"
 
           "**Tea & Coffee**" 1 "**20 mins break**" 1;
           " Chan-Shan Yang " "https://sites.google.com/view/units-lab/Home?authuser=0" " To be announced " 0;
-          " Masafumi Fukunari " "https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002988/profile.html?lang=en" " To be announced " 0;
+          " Masafumi Fukunari " "https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002988/profile.html?lang=en" "High-power Terahertz Vortex Generation Using a Gyrotron and Validation of Topological Charges" 0;
 
           "**Lunch**" 1 "**40 Mins lunch break**" 2;
           " Yu-Chieh Wen " "https://www.phys.sinica.edu.tw/~optical/index_e.php?p=groupLeader_e" "Origin of Nonlinear Photocurrents in Chiral Multifold Semimetals Unveiled by Terahertz Emission Spectroscopy" 0;
-          " Yuya Ishikawa " "https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002976/profile.html?lang=en" " To be announced " 0;
+          " Yuya Ishikawa " "https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002976/profile.html?lang=en" "Recent Progress on Development of High-Frequency ESR apparatus" 0;
           " Hideaki Kitahara " "https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002981/profile.html?lang=en" "Measurement of Dielectric Loss Tangent for Low Loss Plastics by Terahertz Time-domain Spectroscopy" 0;
 
           "**Tea & Coffee**" 1 "**20 mins break**" 1;
@@ -21,10 +21,11 @@ T1 =    ["Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Opening Remarks"
           " Chiko Otani " "https://www.riken.jp/en/research/labs/rap/thz_sens_imag/index.html" "Terahertz Sensing, Imaging and Applications" 0;
 
           "**Tea & Coffee**" 1 "**20 mins break**" 1;
-          " Kosuke Murate " "https://profs.provost.nagoya-u.ac.jp/html/100010133_en.html" " To be announced " 0;
+          "Kosuke Murate" "https://profs.provost.nagoya-u.ac.jp/html/100010133_en.html" " To be announced " 0;
           "Tsun-Hsu Chang" "https://khub.nthu.edu.tw/researcherProfile?uuid=25774CEE-118E-4316-934A-8FC573E0BF44" " To be announced" 0;
-          "Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "To be announced" 0;
+        " Ming-Chang Chou" "https://www.nsrrc.org.tw/Chinese/personal.aspx?ID=15250&Dept_UID=37&Type=D" "Accelerator-based Coherent THz Sources Developed for User Applications at NSRRC" 0;
 
+          "Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "To be announced" 0;
 
           "Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Closing Remarks and Group photo" 3;
           "**Tea & Coffee**" 1 "**20 mins break**" 1;

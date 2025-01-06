@@ -16,7 +16,7 @@ authors:
 tags:
 - ''
 categories: []
-date: '2023-00-01'
+date: '2023-09-17'
 lastmod: 2024-11-17T11:49:11+08:00
 featured: false
 draft: false
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-11-17T03:49:11.483169Z'
+publishDate: '2023-09-17T03:49:11.483169Z'
 publication_types:
 - '2'
 abstract: Terahertz (THz) spectroscopy is a technique proving extremely useful for

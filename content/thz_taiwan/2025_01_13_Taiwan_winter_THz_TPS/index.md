@@ -52,22 +52,23 @@ Welcome to the webpage showing the information about the *Taiwan THz winter work
 | 10:50-11:10 | [ Chih-Wei Luo ](https://udllab.web.nycu.edu.tw/professor/) | Generation and manipulation of circularly polarized THz dual pulses | 
 | **11:10-11:30** | **Tea & Coffee** | **20 mins break** | 
 | 11:30-11:50 | [ Chan-Shan Yang ](https://sites.google.com/view/units-lab/Home?authuser=0) |  To be announced  | 
-| 11:50-12:10 | [ Masafumi Fukunari ](https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002988/profile.html?lang=en) |  To be announced  | 
+| 11:50-12:10 | [ Masafumi Fukunari ](https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002988/profile.html?lang=en) | High-power Terahertz Vortex Generation Using a Gyrotron and Validation of Topological Charges | 
 | **12:10-12:50** | **Lunch** | **40 Mins lunch break** | 
 | 12:50-13:10 | [ Yu-Chieh Wen ](https://www.phys.sinica.edu.tw/~optical/index_e.php?p=groupLeader_e) | Origin of Nonlinear Photocurrents in Chiral Multifold Semimetals Unveiled by Terahertz Emission Spectroscopy | 
-| 13:10-13:30 | [ Yuya Ishikawa ](https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002976/profile.html?lang=en) |  To be announced  | 
+| 13:10-13:30 | [ Yuya Ishikawa ](https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002976/profile.html?lang=en) | Recent Progress on Development of High-Frequency ESR apparatus | 
 | 13:30-13:50 | [ Hideaki Kitahara ](https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002981/profile.html?lang=en) | Measurement of Dielectric Loss Tangent for Low Loss Plastics by Terahertz Time-domain Spectroscopy | 
 | **13:50-14:10** | **Tea & Coffee** | **20 mins break** | 
 | 14:10-14:30 | [ Chien-Ming Tu ](https://ep.nycu.edu.tw/en/faculty_info/%E6%9D%9C%E5%BB%BA%E6%98%8E/) | Chemical pressure-induced topological order in SrCd2(As1-xSbx)2: A terahertz emission study | 
 | 14:30-14:50 | [ Eunmi Choi ](https://emchoi.unist.ac.kr/?page_id=8) |  To be announced  | 
 | 14:50-15:10 | [ Chiko Otani ](https://www.riken.jp/en/research/labs/rap/thz_sens_imag/index.html) | Terahertz Sensing, Imaging and Applications | 
 | **15:10-15:30** | **Tea & Coffee** | **20 mins break** | 
-| 15:30-15:50 | [ Kosuke Murate ](https://profs.provost.nagoya-u.ac.jp/html/100010133_en.html) |  To be announced  | 
+| 15:30-15:50 | [Kosuke Murate](https://profs.provost.nagoya-u.ac.jp/html/100010133_en.html) |  To be announced  | 
 | 15:50-16:10 | [Tsun-Hsu Chang](https://khub.nthu.edu.tw/researcherProfile?uuid=25774CEE-118E-4316-934A-8FC573E0BF44) |  To be announced | 
-| 16:10-16:30 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | To be announced | 
-| 16:30-16:40 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Closing Remarks and Group photo | 
-| **16:40-17:00** | **Tea & Coffee** | **20 mins break** | 
-| 17:00-17:35 | Laboratory Tour | Optional Laboratory Tour | 
+| 16:10-16:30 | [ Ming-Chang Chou](https://www.nsrrc.org.tw/Chinese/personal.aspx?ID=15250&Dept_UID=37&Type=D) | Accelerator-based Coherent THz Sources Developed for User Applications at NSRRC | 
+| 16:30-16:50 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | To be announced | 
+| 16:50-17:00 | [Rayko I. Stantchev](/author/rayko-ivanov-stantchev) | Closing Remarks and Group photo | 
+| **17:00-17:20** | **Tea & Coffee** | **20 mins break** | 
+| 17:20-17:55 | Laboratory Tour | Optional Laboratory Tour | 
 
  
 
