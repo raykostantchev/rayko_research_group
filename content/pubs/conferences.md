@@ -28,7 +28,7 @@ subtitle = "Published Conference Proceedings"
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "1"
+    publication_type = "paper-conference"
     author = ""
     exclude_featured = false
   
