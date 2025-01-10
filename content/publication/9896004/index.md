@@ -1,10 +1,11 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Rapid s- & p- polarised THz spectroscopy for in-vivo measurements using a handheld
   scanner
-subtitle: ''
-summary: ''
+
+# Authors
+# A YAML list of author names
+# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
+# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - H. Ou
 - R. I. Stantchev
@@ -13,38 +14,72 @@ authors:
 - A. I. H. Serrano
 - J. Lloyd-Hughes
 - E. Pickwell-MacPherson
-tags:
-- ''
-categories: []
+
+# Author notes (such as 'Equal Contribution')
+# A YAML list of notes for each author in the above `authors` list
+author_notes: []
+
 date: '2022-08-01'
-lastmod: 2024-11-17T11:49:10+08:00
-featured: false
-draft: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+# Date to publish webpage (NOT necessarily Bibtex publication's date).
+publishDate: '2025-01-10T07:53:17.803724Z'
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2024-11-17T03:49:10.643940Z'
+# Publication type.
+# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- '1'
+- paper-conference
+
+# Publication name and optional abbreviated publication name.
+publication: '*2022 47th International Conference on Infrared, Millimeter and Terahertz
+  Waves (IRMMW-THz)*'
+publication_short: ''
+
+doi: 10.1109/IRMMW-THz50927.2022.9896004
+
 abstract: A compact and easy-to-use terahertz spectrometer is proposed to realize
   in-situ and fast measurement of both the s- and p- polarizations. A multi-pixel
   emitter is integrated into a handheld fiber-based terahertz scanner working in a
   reflection configuration. This self-referenced and mechanical rotation-free ellipsometer
   will significantly speed up the measurement process and has great potential for
   use in vivo skin measurements.
-publication: '*2022 47th International Conference on Infrared, Millimeter and Terahertz
-  Waves (IRMMW-THz)*'
-doi: 10.1109/IRMMW-THz50927.2022.9896004
+
+# Summary. An optional shortened abstract.
+summary: ''
+
+tags:
+- ''
+
+# Display this page in a list of Featured pages?
+featured: false
+
+# Links
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
 ---
+
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
