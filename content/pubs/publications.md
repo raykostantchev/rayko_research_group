@@ -27,7 +27,7 @@ subtitle = "Publications in Peer reviewed journals"
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "2"
+    publication_type = "article-journal"
     author = ""
     exclude_featured = false
     
