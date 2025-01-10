@@ -1,26 +1,33 @@
 ---
-title: Real time THz imaging-opportunities and challenges for skin cancer detection
+title: Electrically tunable Si-based THz photomodulator using dielectric/polymer surface
+  gating
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- H. Lindley-Hatcher
-- R. I. Stantchev
-- X. Chen
-- A. I. Hernandez-Serrano
-- J. Hardwicke
+- X. Romain
+- P.R. Wilshaw
+- R.I. Stantchev
+- T. Miao
+- S. Mou
+- T. Niewelt
+- S. McNab
+- S.L. Pain
+- N.E. Grant
+- R.S. Bonilla
 - E. Pickwell-MacPherson
+- J.D. Murphy
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2021-06-01'
+date: '2024-10-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-01-10T07:53:17.786181Z'
+publishDate: '2025-01-10T07:53:17.845645Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -28,22 +35,31 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Applied Physics Letters*'
+publication: '*IEEE Transactions on Terahertz Science and Technology*'
 publication_short: ''
 
-doi: 10.1063/5.0055259
+doi: 10.1109/TTHZ.2024.3477983
 
-abstract: 'It was first suggested that terahertz imaging has the potential to detect
-  skin cancer twenty years ago. Since then, THz instrumentation has improved significantly:
-  real time broadband THz imaging is now possible and robust protocols for measuring
-  living subjects have been developed. Here, we discuss the progress that has been
-  made as well as highlight the remaining challenges for applying THz imaging to skin
-  cancer detection.'
+abstract: Silicon-based terahertz (THz) photomodulators suffer from a modulation speed
+  limited by the lifetime of the charge carriers photoexcited in the silicon. We report
+  a silicon-based THz photomodulator scheme offering real-time reconfiguration of
+  the switching behavior by manipulation of effective charge carrier lifetime. Atomic
+  layer deposition was used to coat silicon samples with dielectric layers to passivate
+  the surfaces with a conductive polymer (PEDOT:PSS) subsequently deposited to enable
+  electrical gating over the whole surface. The resulting gated photomodulators are
+  characterized using photoconductance decay and photoluminescence imaging. A gated
+  photomodulator with HfO2 passivation is then implemented into a THz time domain
+  spectroscopy setup to demonstrate the potential for live photomodulation optimization
+  during a single-pixel imaging experiment. We use the device to achieve a real-time
+  improvement of the signal-to-noise ratio of the images by a factor of 8.
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- Passivation;Silicon;Terahertz radiation;Hafnium oxide;Charge carrier lifetime;Substrates;Voltage
+  measurement;Fabrication;Dielectrics;Optical switches;THz photomodulation;single-pixel
+  imaging;lifetime;silicon;surface passivation
 
 # Display this page in a list of Featured pages?
 featured: false
