@@ -17,7 +17,7 @@ T1 =    ["Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Opening Remarks"
 
           "**Tea & Coffee**" 1 "**20 mins break**" 1;
           " Chien-Ming Tu " "https://ep.nycu.edu.tw/en/faculty_info/%E6%9D%9C%E5%BB%BA%E6%98%8E/" "Chemical pressure-induced topological order in SrCd2(As1-xSbx)2: A terahertz emission study" 0;
-          " Eunmi Choi " "https://emchoi.unist.ac.kr/?page_id=8" " To be announced " 0;
+          " Eunmi Choi " "https://emchoi.unist.ac.kr/?page_id=8" "Development of OAM Gyrotrons and Measurement of Dielectric Permittivity in Sub-Terahertz Frequency" 0;
           " Chiko Otani " "https://www.riken.jp/en/research/labs/rap/thz_sens_imag/index.html" "Terahertz Sensing, Imaging and Applications" 0;
 
           "**Tea & Coffee**" 1 "**20 mins break**" 1;
