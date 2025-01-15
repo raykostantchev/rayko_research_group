@@ -7,7 +7,7 @@ T1 =    ["Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Opening Remarks"
           " Chih-Wei Luo " "https://udllab.web.nycu.edu.tw/professor/" "Generation and manipulation of circularly polarized THz dual pulses" 0;
 
           "**Tea & Coffee**" 1 "**20 mins break**" 1;
-          " Chan-Shan Yang " "https://sites.google.com/view/units-lab/Home?authuser=0" " To be announced " 0;
+          " Chan-Shan Yang " "https://sites.google.com/view/units-lab/Home?authuser=0" "THz Quasi-BIC Devices for Modulation and Sensing" 0;
           " Masafumi Fukunari " "https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002988/profile.html?lang=en" "High-power Terahertz Vortex Generation Using a Gyrotron and Validation of Topological Charges" 0;
 
           "**Lunch**" 1 "**40 Mins lunch break**" 2;
@@ -22,10 +22,9 @@ T1 =    ["Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Opening Remarks"
 
           "**Tea & Coffee**" 1 "**20 mins break**" 1;
           "Kosuke Murate" "https://profs.provost.nagoya-u.ac.jp/html/100010133_en.html" "Real-time spectroscopic measurement using terahertz parametric generator and detector" 0;
-          "Tsun-Hsu Chang" "https://khub.nthu.edu.tw/researcherProfile?uuid=25774CEE-118E-4316-934A-8FC573E0BF44" " To be announced" 0;
         " Ming-Chang Chou" "https://www.nsrrc.org.tw/Chinese/personal.aspx?ID=15250&Dept_UID=37&Type=D" "Accelerator-based Coherent THz Sources Developed for User Applications at NSRRC" 0;
 
-          "Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "To be announced" 0;
+          "Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Analytical expression for enhanced focusing of short focal-length spherical THz lenses" 0;
 
           "Rayko I. Stantchev" "/author/rayko-ivanov-stantchev" "Closing Remarks and Group photo" 3;
           "Laboratory Tour" 1 "Optional Laboratory Tour" 35;
