@@ -1,50 +1,52 @@
 ---
-title: Subwavelength Terahertz Imaging of Graphene Photoconductivity
+title: 'Non-invasive THz spectroscopy of skin: frequency-domain versus time-domain
+  measurements'
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Samuel M. Hornett
+- Tasaur Hussain
+- Chia-Ming Mai
+- Shang-Hua Yang
 - Rayko I. Stantchev
-- Martha Z. Vardaki
-- Chris Beckerleg
-- Euan Hendry
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2016-11-01'
+date: '2024-09-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-02-04T09:44:56.053580Z'
+publishDate: '2025-02-04T09:44:56.221248Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Nano Letters*'
+publication: '*2024 49th International Conference on Infrared, Millimeter, and Terahertz
+  Waves (IRMMW-THz)*'
 publication_short: ''
 
-doi: 10.1021/acs.nanolett.6b03168
+doi: 10.1109/IRMMW-THz60956.2024.10697792
 
-abstract: Using a spatially structured, optical pump pulse with a terahertz (THz)
-  probe pulse, we are able to determine spatial variations of the ultrafast THz photoconductivity
-  with subwavelength resolution (75 mu m approximate to lambda/5 at 0.8 THz) in a
-  planar graphene sample. We compare our results to Raman spectroscopy and correlate
-  the existence of the spatial inhomogeneities between the two measurements. We find
-  a strong correlation with inhomogeneity in electron density. This demonstrates the
-  importance of eliminating inhomogeneities in doping density during CVD growth and
-  fabrication for photoconductive devices.
+abstract: THz has shown that it can be used for non-invasive skin measurements, successfully
+  identifying many skin diseases. These measurements have typically been performed
+  with pulsed time-domain THz sources, however there is no study that compares if
+  a frequency domain measurement is better or worse. Here, we compare the ability
+  to extract the skin’s refractive index and hydration levels using a pulsed-THz photoconductive
+  antenna and a CW-THz photomixer.
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- Antenna measurements;Time-frequency analysis;Spectroscopy;Pulse measurements;Refractive
+  index;Skin;Time-domain analysis;Antennas;Diseases;frequency-domain;time-domain;non-invasive
+  skin measurements;refractive
 
 # Display this page in a list of Featured pages?
 featured: false

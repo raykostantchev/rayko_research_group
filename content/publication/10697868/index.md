@@ -1,50 +1,58 @@
 ---
-title: Subwavelength Terahertz Imaging of Graphene Photoconductivity
+title: Channel-Equalized Terahertz Compressed Sensing Imaging
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Samuel M. Hornett
-- Rayko I. Stantchev
-- Martha Z. Vardaki
-- Chris Beckerleg
-- Euan Hendry
+- Chun-Yu Kao
+- Li-Hsuan Chiu
+- Chia-Ming Mai
+- Rayko Ivanov Stantchev
+- Yuan-Hao Huang
+- Shang-Hua Yang
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2016-11-01'
+date: '2024-09-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-02-04T09:44:56.053580Z'
+publishDate: '2025-02-04T09:44:56.225625Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Nano Letters*'
+publication: '*2024 49th International Conference on Infrared, Millimeter, and Terahertz
+  Waves (IRMMW-THz)*'
 publication_short: ''
 
-doi: 10.1021/acs.nanolett.6b03168
+doi: 10.1109/IRMMW-THz60956.2024.10697868
 
-abstract: Using a spatially structured, optical pump pulse with a terahertz (THz)
-  probe pulse, we are able to determine spatial variations of the ultrafast THz photoconductivity
-  with subwavelength resolution (75 mu m approximate to lambda/5 at 0.8 THz) in a
-  planar graphene sample. We compare our results to Raman spectroscopy and correlate
-  the existence of the spatial inhomogeneities between the two measurements. We find
-  a strong correlation with inhomogeneity in electron density. This demonstrates the
-  importance of eliminating inhomogeneities in doping density during CVD growth and
-  fabrication for photoconductive devices.
+abstract: Among all terahertz (THz) imaging techniques, compressed sensing imaging
+  shows the potential to perform large area detection with faster acquisition time
+  and capability to be integrated with single pixel THz receiver. However, despite
+  the mentioned advantages, unevenly distributed THz beam and spatial modulated optical
+  pump begin to affect the image system and reduce the reconstruction quality within
+  the utilization of larger field of view. Hence, we establish a THz compressed sensing
+  imaging system with equalization procedure along orthogonal basis pursuit (OMP)
+  algorithm to mitigate these effects. Results from imaging experiments demonstrate
+  the effectiveness of the proposed equalization method in improving image reconstruction,
+  presenting a precise mathematical model simulating and non-ideal phenomenon calibration.
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- Terahertz wave imaging;Signal processing algorithms;Optical receivers;Optical pumping;Optical
+  sensors;Optical modulation;Time-domain analysis;Optical signal processing;Compressed
+  sensing;Image reconstruction;terahertz time-domain spectroscopy;compressed sensing
+  imaging;channel equalization;digital signal processing
 
 # Display this page in a list of Featured pages?
 featured: false

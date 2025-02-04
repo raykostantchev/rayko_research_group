@@ -24,6 +24,11 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
     - path: github.com/r-lib/hugodown
     - path: github.com/peaceiris/hugo-mod-mathjax
     - path: github.com/mermaid-js/mermaid
