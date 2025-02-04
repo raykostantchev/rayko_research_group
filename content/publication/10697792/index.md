@@ -44,9 +44,7 @@ abstract: THz has shown that it can be used for non-invasive skin measurements, 
 summary: ''
 
 tags:
-- Antenna measurements;Time-frequency analysis;Spectroscopy;Pulse measurements;Refractive
-  index;Skin;Time-domain analysis;Antennas;Diseases;frequency-domain;time-domain;non-invasive
-  skin measurements;refractive
+- Antenna measurements;
 
 # Display this page in a list of Featured pages?
 featured: false
