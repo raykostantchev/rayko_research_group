@@ -49,10 +49,7 @@ abstract: Among all terahertz (THz) imaging techniques, compressed sensing imagi
 summary: ''
 
 tags:
-- Terahertz wave imaging;Signal processing algorithms;Optical receivers;Optical pumping;Optical
-  sensors;Optical modulation;Time-domain analysis;Optical signal processing;Compressed
-  sensing;Image reconstruction;terahertz time-domain spectroscopy;compressed sensing
-  imaging;channel equalization;digital signal processing
+- Terahertz wave imaging
 
 # Display this page in a list of Featured pages?
 featured: false
