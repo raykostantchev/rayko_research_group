@@ -58,7 +58,16 @@ flowchart TD
     click C "../../theory/thz_spectroscopy"
 
 ```
-  
+
+### Application Link
+
+Undergraduate, Graduate, and Ph.D. students are welcome, and this is the link to the [NSYSU International Degree Students](https://oia.nsysu.edu.tw/p/412-1308-20732.php?Lang=en) 
+
+**Note** applications open:\
+Fall semester entry: Jan. 15 to Mar. 15\
+Spring semester entry: Aug. 1 to Sep. 30
+
+
 
 ### Potential overseas exchange to the University of Warwick, UK.
 
