@@ -15,15 +15,18 @@ hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
+
 ############################
 ## MODULES
 ############################
 
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+    # - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
+    # - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+    # - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
     - path: github.com/r-lib/hugodown
     - path: github.com/peaceiris/hugo-mod-mathjax
     - path: github.com/mermaid-js/mermaid
@@ -36,7 +39,8 @@ module:
 enableGravatar: true
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+# paginate: 10
+pagination.pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -76,6 +80,14 @@ markup:
     ordered: false
     startLevel: 1
     
+outputFormats:
+  wowchemycms_config:
+    baseName: config
+    mediaType: application/yaml
+    isPlainText: true
+    notAlternative: true
+
+
 related:
   threshold: 80
   includeNewer: true

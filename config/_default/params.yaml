@@ -4,6 +4,10 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+services:
+  googleAnalytics:
+    id: ''
+
 
 appearance:
   theme_day: ocean_rayko
@@ -119,3 +123,4 @@ publications:
   date_format: January 2006
   citation_style: mla
   highlight_superuser: true
+
